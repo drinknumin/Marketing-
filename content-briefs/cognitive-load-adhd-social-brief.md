@@ -2,7 +2,7 @@
 
 **Purpose:** Raw material for short-form scripts and videos. Every topic gives you a tension setup, ready-to-read audio lines built as a mini arc (hook, build, turn, land), the receipts to back it on camera, the same idea voiced for every generation, and a practical fix you can end on so the video actually helps someone.
 
-**How to use it:** Grab a hook, follow the arc, drop in the stat when you need credibility, pick the generational line that fits your audience, and close on the fix. Every line is written to be said out loud, and every number is sourced so your creators hold up under a fact check.
+**How to use it:** Most hooks lead with the topic name as the concept, because naming a feeling people have not heard named is strong retention bait. Grab a hook, follow the arc, drop in the stat when you need credibility, pick the generational line that fits your audience, and close on the fix. Every line is written to be said out loud, and every number is sourced so your creators hold up under a fact check.
 
 All 31 topics below, original names and order.
 
@@ -13,8 +13,8 @@ All 31 topics below, original names and order.
 **The tension:** The people selling to you do not need you sharp. They need you tired.
 
 **Audio lines (read in order):**
-- Hook: "A maxed out brain is the easiest brain to sell to."
-- Build: "When you are overloaded, you stop comparing, stop questioning, and just take whatever is put in front of you."
+- Hook: "Cognitive overload is not an accident. It is a form of control."
+- Build: "When you are maxed out, you stop comparing, stop questioning, and just take whatever is put in front of you."
 - Turn: "Money stress alone can drop your performance like losing a full night of sleep. Roughly a 13 point IQ hit."
 - Land: "So the pitch was never built for your best thinking. It was built for your most depleted."
 
@@ -26,9 +26,9 @@ All 31 topics below, original names and order.
 - Gen X: "You are not slipping. You are drinking from the firehose."
 - Boomers: "It is not your age. It is the noise. Nobody can think in this racket."
 
-**The fix (CTA):** "Make your big calls when you are fresh, not when you are fried, and take back the defaults someone else set for you." Protect your sharpest hours for real decisions, and reduce the load weighing on them. This is the exact gap Numin was built to support.
+**The fix (CTA):** "Make your big calls when you are fresh, not when you are fried, and take back the defaults someone else set for you." Protect your sharpest hours for real decisions, and cut the load weighing on them.
 
-**Keep them watching:** Open on the 13 IQ point line, then withhold "why" until after the first five seconds.
+**Keep them watching:** Drop the name in the first two seconds, then make them wait for the 13 IQ point reveal.
 
 ---
 
@@ -37,8 +37,8 @@ All 31 topics below, original names and order.
 **The tension:** Every tool that decides for you quietly takes a skill away from you.
 
 **Audio lines (read in order):**
-- Hook: "Your sense of direction is not bad. It got deleted."
-- Build: "The more you trust the GPS, the worse your own navigation gets."
+- Hook: "There is a name for why you cannot trust your gut anymore. Intuition atrophy."
+- Build: "The more you trust the GPS, the worse your own sense of direction gets."
 - Turn: "A three year study tracked it. Heavier GPS use predicted a steeper drop in your own spatial memory, and the app was the cause, not the symptom."
 - Land: "Now ask what else you have outsourced until you cannot do it without the screen."
 
@@ -61,7 +61,7 @@ All 31 topics below, original names and order.
 **The tension:** Every choice you did not finish is still running in the background, charging you rent.
 
 **Audio lines (read in order):**
-- Hook: "Your brain is exhausted from decisions you never actually made."
+- Hook: "You are not tired from the decisions you made. You are buried in decision debt."
 - Build: "Every half made choice stays open, pinging you in the background all day."
 - Turn: "The fix from the research is almost insultingly simple. You do not have to finish the task. You just have to write the next step down."
 - Land: "Closing the loop on paper tricks your mind into letting it go."
@@ -76,7 +76,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Tonight, write the single next step for everything spinning in your head, then close the tabs." You do not need to finish it, you need to capture it. A two minute brain dump buys back the whole evening.
 
-**Keep them watching:** State the problem, then say "the fix takes ten seconds," and make them wait for it.
+**Keep them watching:** Name the debt in the hook, then say "the fix takes ten seconds," and make them wait for it.
 
 ---
 
@@ -85,8 +85,8 @@ All 31 topics below, original names and order.
 **The tension:** You are not one person online. You are running five accounts of yourself, and it is exhausting.
 
 **Audio lines (read in order):**
-- Hook: "The fake account is the honest one."
-- Build: "Your finsta is where you tell the truth. Your real account is the performance."
+- Hook: "There is a name for why being online is exhausting. Identity fragmentation."
+- Build: "And here is the twist. The fake account is the honest one. Your finsta is where you tell the truth, your real account is the performance."
 - Turn: "Researchers found people split their audiences on purpose, because every platform flattens your boss, your mom, and your friends into one room."
 - Land: "It is not multitasking. It is switching identities under a crowd, all day."
 
@@ -100,7 +100,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Pick one space where you are completely yourself, and protect it." The fewer versions of you that you have to maintain, the more energy you get back. Cut one account this week.
 
-**Keep them watching:** Lead with "the fake account is the honest one" and let the contradiction hang for a beat.
+**Keep them watching:** Name it, then hit "the fake account is the honest one" and let the contradiction hang for a beat.
 
 ---
 
@@ -109,7 +109,7 @@ All 31 topics below, original names and order.
 **The tension:** Your job stopped being your job. Now your job is answering pings about your job.
 
 **Audio lines (read in order):**
-- Hook: "You get interrupted every two minutes. That is not a workday. That is a fire alarm that never stops."
+- Hook: "Welcome to cognitive load capitalism, where you get interrupted every two minutes and call it a workday."
 - Build: "The average worker now eats 117 emails and 153 chat messages a day."
 - Turn: "And a new shift appeared. By 10pm a third of people quietly reopen the inbox."
 - Land: "The machine offloaded its chaos onto you. You became quality control for the algorithm."
@@ -122,9 +122,9 @@ All 31 topics below, original names and order.
 - Gen X: "Process replaced judgment. Now you manage the tools instead of the work."
 - Boomers: "The computer was supposed to save time. It made more work."
 
-**The fix (CTA):** "Batch your messages into two or three windows a day instead of 275 interruptions, and guard one real focus block." Turn off the pings that are not humans who know you. Protect the clarity the workday keeps stealing, which is what Numin is for.
+**The fix (CTA):** "Batch your messages into two or three windows a day instead of 275 interruptions, and guard one real focus block." Turn off the pings that are not humans who know you. The clarity you defend is the clarity you keep.
 
-**Keep them watching:** Open on "every two minutes" and put the count on screen as a ticking number.
+**Keep them watching:** Say the name, then put "every two minutes" on screen as a ticking number.
 
 ---
 
@@ -133,7 +133,7 @@ All 31 topics below, original names and order.
 **The tension:** You are not relaxed. You are just waiting for the next buzz.
 
 **Audio lines (read in order):**
-- Hook: "You do not need a panic attack to be anxious. You can be gently vibrated by dread all day."
+- Hook: "You are not anxious about any one thing. You have ambient anxiety."
 - Build: "It is not the number of messages. It is the feeling that you have to answer them now."
 - Turn: "Two people with the same inbox can live at completely different stress levels, based purely on how fast they think they must reply."
 - Land: "The phone face down on the table is a wearable uncertainty device."
@@ -148,7 +148,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Decide your reply speed on purpose, and tell people what it is." The dread comes from the unspoken obligation, not the message. Set an away message and put the phone in another room after hours.
 
-**Keep them watching:** Name the feeling first ("there is a word for this"), then reveal the word.
+**Keep them watching:** Lead with the name as the label for a feeling they know but never named.
 
 ---
 
@@ -157,9 +157,9 @@ All 31 topics below, original names and order.
 **The tension:** You turned your own life into a performance review you can never pass.
 
 **Audio lines (read in order):**
-- Hook: "People walk into sleep clinics with perfect sleep scores, convinced they slept terribly."
-- Build: "Why? Because the watch told them so."
-- Turn: "There is a name for it now. Orthosomnia. The data started overruling how you actually feel."
+- Hook: "Self-optimization culture turned your life into a performance review you can never pass."
+- Build: "People now walk into sleep clinics with perfect sleep scores, convinced they slept terribly. Because the watch told them so."
+- Turn: "There is even a name for it. Orthosomnia. The data started overruling how you actually feel."
 - Land: "You did not optimize your life. You added a manager to it."
 
 **Your receipts:** "Orthosomnia," anxiety driven obsession with perfect sleep data, showed up in 3 to 14 percent of adults in a 2024 study and tracked with higher insomnia scores ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11592250/)). A 2025 review found self-quantification can lower well-being by raising anxiety ([Psychology & Marketing](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.22141)). Keep it to "for some people."
@@ -172,7 +172,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Take the watch off for a week and rate your day by how you feel, not by your score." If the metric stresses you out, the metric is the problem. Keep one habit that helps, drop the three that just nag.
 
-**Keep them watching:** Open on the clinic image, then ask "how is that possible," and answer slowly.
+**Keep them watching:** Name the culture, then pivot to the clinic image and ask "how is that even possible."
 
 ---
 
@@ -181,7 +181,7 @@ All 31 topics below, original names and order.
 **The tension:** The thing draining you online is not posting. It is posing.
 
 **Audio lines (read in order):**
-- Hook: "Social media did not kill authenticity. It monetized it."
+- Hook: "There is a name for why posting feels like a job. The performativity trap."
 - Build: "Here is the twist most people get wrong. Posting the real stuff is actually good for you."
 - Turn: "It is the curating, the comparing, the editing of yourself that quietly costs you."
 - Land: "The performance is the tax. Not the platform."
@@ -196,16 +196,16 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Post the honest version and mute the accounts that make you compare." You do not have to quit the platform, just quit the performance. Drop the curation and watch the dread drop with it.
 
-**Keep them watching:** Bait with "social media is bad for you, right? Wrong," then flip it.
+**Keep them watching:** Name the trap, then bait with "social media is bad for you, right? Wrong," and flip it.
 
 ---
 
 ## SYNTHESIS
 
-**The tension:** They told you to be more resilient. The world's top health authority disagrees.
+**The tension:** They told you to be more resilient. The world's top health authority disagrees. *(Note: "Synthesis" is the wrap-up section, so this hook leads with the payoff line instead of the word, which does not work spoken aloud.)*
 
 **Audio lines (read in order):**
-- Hook: "Burnout is not a glitch in the machine. It is the user experience of the machine."
+- Hook: "Burnout is not a glitch in the machine. It is the machine working as designed."
 - Build: "You were told it was a you problem. Be tougher. Manage your time better."
 - Turn: "The World Health Organization officially calls burnout an occupational phenomenon. A thing the workplace produces, not a weakness you carry."
 - Land: "So stop trying to out-discipline a system that was built to drain you."
@@ -229,7 +229,7 @@ All 31 topics below, original names and order.
 **The tension:** Your exhaustion is not an accident. For a lot of companies, it is the business model.
 
 **Audio lines (read in order):**
-- Hook: "The funnel likes you tired."
+- Hook: "Your decision fatigue is not a bug. For a lot of companies, it is a feature."
 - Build: "A worn down brain stops comparing and just takes the default that is sitting in front of it."
 - Turn: "That is why the cancel button is buried and the upgrade is one tap. They are betting you are too drained to fight it."
 - Land: "Friction is profitable when exhaustion does the converting for them."
@@ -253,8 +253,8 @@ All 31 topics below, original names and order.
 **The tension:** More options were supposed to set you free. They froze you instead.
 
 **Audio lines (read in order):**
-- Hook: "A table with 6 jams outsold a table with 24 by ten to one."
-- Build: "More choices did not mean more sales. They meant more people walked away with nothing."
+- Hook: "Choice overload is why you scrolled for 40 minutes and watched nothing."
+- Build: "A table with 6 jams outsold a table with 24 by ten to one. More choices meant more people walked away with nothing."
 - Turn: "And here is the part that matters for you. Choice stops helping the moment the options blur together."
 - Land: "Infinite choice is just engineered indecision with better lighting."
 
@@ -268,7 +268,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Cap it at three options and set a timer." Pre-decide your criteria before you start browsing, then pick the best of three and move on. Less choosing, more living.
 
-**Keep them watching:** Open on the 6 versus 24 number, visualize both tables side by side.
+**Keep them watching:** Name it, then visualize the 6 versus 24 jam tables side by side.
 
 ---
 
@@ -277,10 +277,10 @@ All 31 topics below, original names and order.
 **The tension:** The 70 hour week is a status costume. It produces almost nothing the 55 hour week did not.
 
 **Audio lines (read in order):**
-- Hook: "Working 70 hours a week gets you the same output as working 55."
-- Build: "Stanford data found productivity per hour falls off a cliff after 50. The last 15 hours are a gift to no one."
+- Hook: "Hustle culture rewards the look of work, not the work itself. Here is the proof."
+- Build: "Working 70 hours a week gets you the same output as working 55. The last 15 hours are a gift to no one."
 - Turn: "And the body keeps the receipts. 55 hour weeks are linked to 745,000 deaths a year from stroke and heart disease."
-- Land: "Hustle culture confused looking busy with being valuable."
+- Land: "Busy became a costume. The value left the building."
 
 **Your receipts:** WHO and ILO linked 55+ hour weeks to 745,000 stroke and heart-disease deaths in one year ([WHO](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo)). Pencavel found output collapses after about 50 hours ([Stanford](https://siepr.stanford.edu/publications/working-paper/productivity-working-hours)). Say "linked to," not "causes."
 
@@ -292,7 +292,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Set a hard stop and judge yourself on output, not hours." Past 50 hours you are donating time for free, so protect the cutoff and let the work be done when it is done. Rested beats wrecked at the same desk.
 
-**Keep them watching:** Lead with "70 equals 55" as a flat contradiction people will argue with in comments.
+**Keep them watching:** State "70 equals 55" as a flat contradiction people will argue with in the comments.
 
 ---
 
@@ -301,7 +301,7 @@ All 31 topics below, original names and order.
 **The tension:** Every ping costs you something. By bedtime you are bankrupt and you do not know why.
 
 **Audio lines (read in order):**
-- Hook: "A notification is an invoice sent straight to your focus."
+- Hook: "Every notification is a micro-tax on your brain, and the bill comes due by bedtime."
 - Build: "Some teens get 237 of them a day. A few top 5,000."
 - Turn: "But here is the uncomfortable part. About half of your interruptions are not the phone. They are you."
 - Land: "You would reach for it even if it went silent. We internalized the buzz."
@@ -316,7 +316,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Turn off every notification that is not a human who knows you, and leave the phone in another room for one focus block." Then catch the self-interruption: next time your hand reaches for the phone with no buzz, just notice it. Awareness is half the cure.
 
-**Keep them watching:** Tease the "half are self-inflicted" reveal in the hook, deliver it at the turn.
+**Keep them watching:** Name the micro-tax up front, then tease that half the interruptions are self-inflicted before you reveal it.
 
 ---
 
@@ -325,8 +325,8 @@ All 31 topics below, original names and order.
 **The tension:** You hoard your time off like an emergency fund, then you never spend it.
 
 **Audio lines (read in order):**
-- Hook: "A third of your vacation days die every year, unused."
-- Build: "Not because people love their jobs. Because they are scared. Scared of the pile-up, scared there is no one to cover."
+- Hook: "Somewhere we turned rest into a moral failure."
+- Build: "A third of your vacation days die every year, unused. Not because people love their jobs, because they are scared of the pile-up."
 - Turn: "We treat rest like a character test instead of basic maintenance."
 - Land: "Burnout starts exactly where recovery starts to feel like a luxury you have to earn."
 
@@ -340,7 +340,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Book one day off right now, before you finish this video." Schedule rest like a meeting you cannot move, and treat it as maintenance, not a reward you have to earn. The work will still be there. So will you, sharper.
 
-**Keep them watching:** Open on "a third of your vacation dies every year" and let the word "dies" sit.
+**Keep them watching:** Name it, then let the word "die" land on "a third of your vacation days die every year."
 
 ---
 
@@ -349,7 +349,7 @@ All 31 topics below, original names and order.
 **The tension:** The big decisions are not what break you. The hundred tiny ones are.
 
 **Audio lines (read in order):**
-- Hook: "It is not the big choices wrecking your day. It is the 200 invisible ones."
+- Hook: "It is not the big choices wrecking your day. It is the invisible micro-decisions."
 - Build: "What to reply, which tab, which notification, what to eat, where to look. Each one is tiny."
 - Turn: "Added up, they fragment your attention into confetti. Average focus is now about 47 seconds."
 - Land: "You did not lose your focus. It got chopped into a thousand little pieces."
@@ -373,7 +373,7 @@ All 31 topics below, original names and order.
 **The tension:** The feed became a waiting room with no doctor in it.
 
 **Audio lines (read in order):**
-- Hook: "TikTok diagnosed a whole generation before a clinician ever did."
+- Hook: "Welcome to the ADHD self-diagnosis epidemic, where the feed is the waiting room and there is no doctor in it."
 - Build: "Scroll long enough and every normal human moment starts to look like a symptom."
 - Turn: "But flip the story. Even with everyone talking about it, about 1 in 3 adults with ADHD get no treatment at all."
 - Land: "The real crisis is not too many labels. It is people who need help and cannot reach it."
@@ -397,7 +397,7 @@ All 31 topics below, original names and order.
 **The tension:** Funny how the diagnosis tends to arrive right when the pressure does.
 
 **Audio lines (read in order):**
-- Hook: "Notice how the search for a diagnosis spikes the moment the stakes get high."
+- Hook: "Call it strategic diagnosis timing. The label tends to arrive right when the pressure does."
 - Build: "New job, bigger workload, the deadline that will not move. Suddenly the question appears."
 - Turn: "This is not about anyone faking. It is about a culture that reaches for a chemical edge the instant friction shows up."
 - Land: "When ambition meets exhaustion, something has to give. Often it is a prescription pad."
@@ -421,8 +421,8 @@ All 31 topics below, original names and order.
 **The tension:** Here is the question that ends most arguments about focus: what happens when the stress disappears?
 
 **Audio lines (read in order):**
-- Hook: "If your focus problems vanish on vacation, that does not mean what you think it means."
-- Build: "Most people assume it proves you do not really have it. Clinicians say the opposite."
+- Hook: "It is called the vacation test, and almost everyone gets it backwards."
+- Build: "If your focus problems vanish on vacation, most people assume it proves you do not really have ADHD. Clinicians say the opposite."
 - Turn: "Real ADHD also eases up when you are rested and the demands drop. It is unmasked by pressure, not erased by genetics."
 - Land: "The environment changes. The wiring does not. Which is exactly why a quiz cannot tell you. A clinician can."
 
@@ -436,7 +436,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Treat the vacation clue as a data point for a professional, not a verdict you hand yourself." Note when your focus is best and worst, bring that pattern to a clinician, and fix the environment either way.
 
-**Keep them watching:** Pose the question in the hook, then say "you have the answer backwards," and correct it.
+**Keep them watching:** Name the test, say "you have the answer backwards," then correct it.
 
 ---
 
@@ -445,7 +445,7 @@ All 31 topics below, original names and order.
 **The tension:** When diagnosis gets convenient, it also gets gameable.
 
 **Audio lines (read in order):**
-- Hook: "One telehealth company allegedly pushed 40 million Adderall pills before the government stepped in."
+- Hook: "The diagnosis system has an exposure problem. One telehealth company allegedly pushed 40 million Adderall pills before regulators stepped in."
 - Build: "The same convenience that finally gave real people access also opened a side door."
 - Turn: "Diagnosis at scale just behaves differently than diagnosis in depth."
 - Land: "The convenience economy reached your prescription pad, for better and for worse."
@@ -469,7 +469,7 @@ All 31 topics below, original names and order.
 **The tension:** Same pill. One person gets grounded. The other gets a bonus.
 
 **Audio lines (read in order):**
-- Hook: "A pilot can be grounded for the exact pill a trader takes at his desk."
+- Hook: "There is a stimulant double standard hiding in plain sight. A pilot can be grounded for the exact pill a trader takes at his desk."
 - Build: "The FAA bans current ADHD stimulants for anyone flying a plane."
 - Turn: "Two miles away on a trading floor, the same molecule is just a Tuesday."
 - Land: "We police the stimulant where the crash is visible, not where the bad call is merely profitable."
@@ -482,7 +482,7 @@ All 31 topics below, original names and order.
 - Gen X: "Safety versus profit. Pick which one the rules protect."
 - Boomers: "They ground a pilot but look the other way on Wall Street."
 
-**The fix (CTA):** "Do not assume the people around you are chemically enhanced, and do not feel you have to match a myth." If you want a sharper afternoon, you can chase clarity without a prescription you do not need. That is the entire point of Numin.
+**The fix (CTA):** "Do not assume the people around you are chemically enhanced, and do not feel you have to match a myth." If you want a sharper afternoon, you can build clarity through sleep, fuel, and recovery, no prescription required.
 
 **Keep them watching:** Split screen the pilot and the trader, same pill graphic between them.
 
@@ -493,7 +493,7 @@ All 31 topics below, original names and order.
 **The tension:** The same kid can look like they have ADHD on Monday and not on Friday. The variable is sleep.
 
 **Audio lines (read in order):**
-- Hook: "Some focus problems are not a disorder. They are a sleep debt wearing a costume."
+- Hook: "Sleep versus ADHD. Some focus problems are not a disorder, they are a sleep debt wearing a costume."
 - Build: "Cut anyone's sleep and you get inattention, impulsivity, and the exact profile that looks like ADHD."
 - Turn: "The overlap is so tight that guidelines say screen for sleep problems before you ever diagnose."
 - Land: "Before you medicate focus, audit recovery. Then get a real evaluation, because both can be true at once."
@@ -506,9 +506,9 @@ All 31 topics below, original names and order.
 - Gen X: "Chronic tiredness wrecks focus. Running on fumes does that."
 - Boomers: "People need a good night's sleep before they need a pill."
 
-**The fix (CTA):** "Fix the sleep first for two weeks, then see what is actually left." Lock a consistent schedule and a screen curfew before you draw conclusions. For the daytime clarity in between, Numin supports focus without a stimulant or a crash.
+**The fix (CTA):** "Fix the sleep first for two weeks, then see what is actually left." Lock a consistent schedule and a screen curfew before you draw any conclusions about your focus.
 
-**Keep them watching:** Use the "Monday versus Friday" line as the hook, explain the mechanism after.
+**Keep them watching:** Use the "Monday versus Friday" line right after the name, explain the mechanism after.
 
 ---
 
@@ -517,9 +517,9 @@ All 31 topics below, original names and order.
 **The tension:** Maybe the phone did not just steal your attention. Maybe it retrained it.
 
 **Audio lines (read in order):**
-- Hook: "That goldfish stat you heard, the one about an 8 second attention span? It comes from no real study. Somebody made it up."
-- Build: "But here is what is real. The phone can train distractibility faster than school ever trained focus."
-- Turn: "In one study of teens with no symptoms, heavy phone use predicted more attention problems two years later."
+- Hook: "Phone addiction versus ADHD. Most people cannot tell which one they actually have."
+- Build: "And that goldfish stat you heard, the 8 second attention span? It comes from no real study. Somebody made it up."
+- Turn: "But this part is real. In one study of teens with no symptoms, heavy phone use predicted more attention problems two years later."
 - Land: "Some people are medicating an app-shaped problem with a pharmacy-shaped solution."
 
 **Your receipts:** The "8 second, worse than a goldfish" claim traces to no real study. Among 2,587 teens with no baseline symptoms, heavy digital use predicted more ADHD symptoms over two years ([Ra et al., JAMA](https://jamanetwork.com/journals/jama/fullarticle/2687861)). Keep it "associated," not "causes ADHD."
@@ -532,7 +532,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Retrain the attention you trained away, starting with ten boring minutes a day." Sit with one task and no second screen, then stretch it. You can rebuild a focus the feed spent years dismantling.
 
-**Keep them watching:** Lead with the goldfish myth bust, because correcting a "fact" people repeat is instant retention.
+**Keep them watching:** Name the matchup, then bust the goldfish myth, because correcting a "fact" people repeat is instant retention.
 
 ---
 
@@ -541,9 +541,9 @@ All 31 topics below, original names and order.
 **The tension:** The study drug is selling you something it cannot actually deliver.
 
 **Audio lines (read in order):**
-- Hook: "If you do not have ADHD, the study drug is not making you smarter. It is making you awake."
+- Hook: "Nobody warns you about the long-term dependency. If you do not have ADHD, the study drug is not making you smarter. It is making you awake."
 - Build: "Controlled studies show stimulants mostly fight fatigue. They barely move higher order thinking in people without the condition."
-- Turn: "So you are buying alertness and calling it genius, and financing it against your future baseline."
+- Turn: "So you are buying alertness and calling it genius, financing it against your future baseline."
 - Land: "For people who actually have ADHD, real treatment can lower long-term risk. The danger zone is the borrowed pill chasing an edge."
 
 **Your receipts:** Clinical tolerance is uncommon and treated ADHD is linked to lower later substance risk, while the campus "study drug" premise is shaky since stimulants mostly fight fatigue in non-ADHD users ([study-drug review](https://www.mdpi.com/2673-5318/3/3/18); [tolerance evidence](https://www.adhdevidence.org/blog/the-medication-tolerance-myth-in-adhd-what-the-evidence-actually-says)). Aim at misuse culture, not patients.
@@ -554,9 +554,9 @@ All 31 topics below, original names and order.
 - Gen X: "You are starting something that is hard to stop."
 - Boomers: "No free lunch. You pay for it later."
 
-**The fix (CTA):** "If you are buying alertness, buy the kind that does not bill your future." Sleep, movement, and real fuel do most of the work, and Numin was built to support sustained focus with no crash and no dependency.
+**The fix (CTA):** "If you are buying alertness, buy the kind that does not bill your future." Sleep, movement, and real fuel do most of the work, and none of it builds a dependency.
 
-**Keep them watching:** Hook with "not smarter, just awake," then back it with the study.
+**Keep them watching:** Name it, then hit "not smarter, just awake," and back it with the study.
 
 ---
 
@@ -565,7 +565,7 @@ All 31 topics below, original names and order.
 **The tension:** Somewhere along the way, a diagnosis stopped being a condition and started being a personality.
 
 **Audio lines (read in order):**
-- Hook: "There is a reason every feeling now comes with a diagnosis attached."
+- Hook: "ADHD became social currency, and there is a reason every feeling now comes with a diagnosis attached."
 - Build: "Psychologists call it concept creep. The definitions of trauma, anxiety, and disorder have quietly widened over the years."
 - Turn: "And a label does more than explain pain. It can organize belonging. It gives you a group."
 - Land: "That is not vanity. That is a human need. The problem is when the label becomes the whole self."
@@ -580,7 +580,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Use the label as a tool, not a cage." Take the strategies that help, find your community, and still expect more of yourself than four letters. You are the whole person, not the diagnosis.
 
-**Keep them watching:** Drop "concept creep" as a term people have not heard, then define it.
+**Keep them watching:** Name it, then drop "concept creep" as a term they have not heard and define it.
 
 ---
 
@@ -589,7 +589,7 @@ All 31 topics below, original names and order.
 **The tension:** The research flips the script you were expecting.
 
 **Audio lines (read in order):**
-- Hook: "Everyone assumes a diagnosis is a way to lower the bar. The data says the opposite."
+- Hook: "Everyone assumes a diagnosis is victimhood currency, a way to lower the bar. The research says the exact opposite."
 - Build: "When people learn someone has ADHD, they tend to expect less of them automatically. The bias runs against them, not for them."
 - Turn: "So the real question is not why people claim it. It is why we made struggling to focus an identity instead of a problem we help solve."
 - Land: "You are not your diagnosis. You are capable of more than the label lets people see."
@@ -604,7 +604,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Do not let the label lower your bar, and do not let it lower anyone else's." Ask for the support that raises performance, not the kind that quietly excuses you out of the game. Expect more, then give yourself the tools to deliver it.
 
-**Keep them watching:** Bait the expected take ("people use it as an excuse"), then reverse it hard with the research.
+**Keep them watching:** Name the assumption, then reverse it hard with the research. The flip is the whole video.
 
 ---
 
@@ -613,7 +613,7 @@ All 31 topics below, original names and order.
 **The tension:** The phrase everyone uses as an insult was invented to mean the exact opposite.
 
 **Audio lines (read in order):**
-- Hook: "Suffering is not a competition, and the phrase Oppression Olympics was coined to say exactly that."
+- Hook: "The Oppression Olympics was invented to mean the opposite of how you use it."
 - Build: "It started as a plea to stop ranking who has it worst and to build coalitions instead."
 - Turn: "Somewhere it flipped into a weapon for ranking people. That gets the whole idea backwards."
 - Land: "Focus struggles are real whether or not they come with a label. Ranking them helps no one."
@@ -628,7 +628,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Drop the ranking and support the person in front of you." Your hard thing is real without beating someone else's. Trade the leaderboard for solidarity, which is what the phrase was meant to do.
 
-**Keep them watching:** Open with the origin twist, since "the word means the opposite of how you use it" is pure curiosity gap.
+**Keep them watching:** Open with the origin twist. "The word means the opposite of how you use it" is pure curiosity gap.
 
 ---
 
@@ -637,7 +637,7 @@ All 31 topics below, original names and order.
 **The tension:** The feed does not just show your pain. It formats it.
 
 **Audio lines (read in order):**
-- Hook: "Outrage is not just happening to you. It is being trained into you."
+- Hook: "There is a name for it. Performative struggle. And outrage is not just happening to you, it is being trained into you."
 - Build: "Research found people learn to post more indignation over time, because the likes and shares reward it. A slot machine for anger."
 - Turn: "The same goes for struggle. The platform pays out for the breakdown more reliably than for the recovery."
 - Land: "That is not a character flaw in people. It is the design doing exactly what it was built to do."
@@ -652,7 +652,7 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Train your feed back by following recovery, not just the breakdown." When you notice the bait, name it and scroll on. Post the part where it gets better, because that is the part worth spreading.
 
-**Keep them watching:** Hook with "outrage is trained into you," then reveal the slot-machine mechanism.
+**Keep them watching:** Name it, then reveal the slot-machine mechanism behind outrage.
 
 ---
 
@@ -661,7 +661,7 @@ All 31 topics below, original names and order.
 **The tension:** There is a gray market for focus, and most people do not realize how big it is.
 
 **Audio lines (read in order):**
-- Hook: "More than half of students holding a stimulant prescription screened as exaggerating their symptoms to get it."
+- Hook: "It is called diagnosis shopping, and more than half of students holding a stimulant prescription screened as exaggerating their symptoms to get it."
 - Build: "Faking the checklist is, in the researchers' words, relatively easy."
 - Turn: "This is not about identity. It is a quiet performance-enhancement market hiding inside a diagnosis."
 - Land: "But chasing a chemical edge you do not medically need is its own kind of trap."
@@ -674,9 +674,9 @@ All 31 topics below, original names and order.
 - Gen X: "People shop around until someone signs off."
 - Boomers: "Going from doctor to doctor until you get what you came for."
 
-**The fix (CTA):** "If you want an edge, build the kind you do not have to lie to a doctor for." Sustainable focus comes from sleep, training, and clean fuel, not a borrowed script. Numin is the legitimate, non-prescription version of that edge.
+**The fix (CTA):** "If you want an edge, build the kind you do not have to lie to a doctor for." Sustainable focus comes from sleep, training, and clean fuel, not a borrowed script.
 
-**Keep them watching:** Lead with the 55 percent stat, it is shocking enough to carry the open.
+**Keep them watching:** Lead with the 55 percent stat. It is shocking enough to carry the open.
 
 ---
 
@@ -685,7 +685,7 @@ All 31 topics below, original names and order.
 **The tension:** ADHD became one of the biggest health topics on the internet, taught almost entirely by people who are not clinicians.
 
 **Audio lines (read in order):**
-- Hook: "ADHD content went from 7 billion views to 28 billion in two years."
+- Hook: "ADHD became a trendy affliction, and the view counts prove it. 7 billion to 28 billion in two years."
 - Build: "Not through doctors. Through people narrating their own lives."
 - Turn: "Which makes it the single best awareness campaign the condition has ever had, and the biggest misinformation engine, at the same time."
 - Land: "Some disorders now travel like content categories, and the algorithm does not fact check."
@@ -709,8 +709,8 @@ All 31 topics below, original names and order.
 **The tension:** The problem is not people. It is a feed that turned identity into an aesthetic. *(Highest-risk topic. Keep every line aimed at the platform and incentives, never at individuals. Review before any paid use.)*
 
 **Audio lines (read in order):**
-- Hook: "Social media will reward you for turning anything into a label, even your pain."
-- Build: "That is not a knock on people who are struggling. It is an incentive baked into the feed."
+- Hook: "They call it disability cosplay. But the real problem is not people, it is the feed."
+- Build: "Social media will reward you for turning anything into a label, even your pain. That is an incentive baked into the platform, not a knock on anyone struggling."
 - Turn: "The algorithm can see the label. It cannot see the lived reality behind it. So it boosts the aesthetic."
 - Land: "The bug is in the platform, not in the audience."
 
@@ -733,10 +733,10 @@ All 31 topics below, original names and order.
 **The tension:** Everybody builds an excuse before they even start. There is a name for it, and it is not a disorder.
 
 **Audio lines (read in order):**
-- Hook: "I work better under pressure. I did not even study. We all do this, and there is a name for it."
-- Build: "It is called self-handicapping. You build the excuse in advance, so failure does not feel like your fault."
-- Turn: "Researchers proved it decades ago. People will literally sabotage themselves to protect the story they tell about themselves."
-- Land: "Owning the gap instead of pre-excusing it is step one. That is true for every single one of us."
+- Hook: "A diagnosis can become an accountability shield, but here is the part that applies to every single one of us."
+- Build: "I work better under pressure. I did not even study. We all do this, and it has a name. Self-handicapping."
+- Turn: "You build the excuse in advance, so failure does not feel like your fault. Researchers proved people will literally sabotage themselves to protect their own story."
+- Land: "Owning the gap instead of pre-excusing it is step one. That is true for all of us."
 
 **Your receipts:** Self-handicapping is a classic, replicated human behavior where people pre-build excuses for possible failure ([Berglas & Jones](https://journals.sagepub.com/doi/10.1177/014616727800400205)). Anchor on this universal habit, not on any diagnosed group.
 
