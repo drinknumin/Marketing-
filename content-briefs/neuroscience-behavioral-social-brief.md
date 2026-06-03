@@ -94,7 +94,7 @@ How your brain actually works, and how that gets used on you.
 - Turn: "That is why an ad does not need you to remember it. It just needs you to have seen it. Familiarity does the rest, under the radar."
 - Land: "Comfort and quality are not the same thing, but your brain keeps confusing them."
 
-**Your receipts:** Bornstein's meta-analysis of 208 experiments found repeated exposure reliably increases liking, with subliminally presented stimuli producing even larger effects than consciously seen ones ([Bornstein, 1989](https://www.researchgate.net/publication/232497059_Exposure_and_Affect_Overview_and_Meta-Analysis_of_Research_1968-1987)); the effect traces to Zajonc (1968). Caveat: it is an inverted U, so overexposure can flip into annoyance; it is a nudge, not a switch.
+**Your receipts:** Bornstein's meta-analysis of 208 experiments found repeated exposure reliably increases liking, with subliminally presented stimuli producing even larger effects than consciously seen ones ([Bornstein, 1989, Psychological Bulletin](https://doi.org/10.1037/0033-2909.106.2.265)); the effect traces to Zajonc (1968). Caveat: it is an inverted U, so overexposure can flip into annoyance; it is a nudge, not a switch.
 
 **Every generation:**
 - Gen Z: "You did not choose your favorite sound, the algorithm just played it 40 times."
@@ -177,3 +177,273 @@ How your brain actually works, and how that gets used on you.
 **The fix (CTA):** "When your hand reaches for the phone with no notification, just notice it and put it back. That is the self-interruption you can actually control." Stack one 20 minute single-task block a day and grow it. You can retrain the focus you trained away.
 
 **Keep them watching:** Hook on the 47 seconds, then twist to "half of it is you."
+
+---
+
+# PART B: THE NEW SCIENCE (2023 TO 2026)
+
+The freshest findings, the kind that make a smart viewer stop scrolling. Several of these are genuinely contested or correlational, which is a feature, not a bug, for a rigorous brand. The honest caveat is often the most shareable part, and it is what keeps us from getting fact-checked. Rule for all of them: say "linked to" or "associated with," never "causes" or "damages."
+
+---
+
+## YOUR BRAIN ON CHATGPT
+
+**The tension:** The tool that writes it for you might be quietly billing your brain.
+
+**Audio lines (read in order):**
+- Hook: "In a 2025 MIT study, people who wrote essays with ChatGPT often could not quote a single line of their own essay minutes later."
+- Build: "The researchers wired people up with EEG. The ones writing from their own head had the strongest, most connected brain activity. The ChatGPT group had the weakest."
+- Turn: "They called it cognitive debt. You get the output now, but the thinking never actually happened, so nothing sticks."
+- Land: "The words were never yours, so your brain never filed them. Convenience has a memory cost."
+
+**Your receipts:** An MIT Media Lab study (Kosmyna et al., 2025) found EEG connectivity was strongest in people writing unaided and weakest in those using an AI assistant, and the AI group reported low ownership and struggled to quote their own essays ([arXiv preprint](https://arxiv.org/abs/2506.08872)). A Microsoft and Carnegie Mellon survey of 319 knowledge workers (2025) found higher confidence in AI tracked with less critical-thinking effort. The classic version is the "Google effect" (Sparrow et al., Science 2011): when we expect to look something up, we remember where to find it instead of the thing itself. Important: the MIT study is a small, not-yet-peer-reviewed preprint, it is correlational, and it does not show AI damages your brain. Say "offloading," not "rotting."
+
+**Every generation:**
+- Gen Z: "ChatGPT wrote my essay and I genuinely cannot tell you what it said."
+- Millennials: "Same reason you do not know a single phone number anymore. You outsourced it."
+- Gen X: "Use it or lose it. If the tool does the thinking, the skill fades."
+- Boomers: "We used to memorize. Now the machine remembers and we forget."
+
+**The fix (CTA):** "Let AI draft, but make yourself rewrite the key part from memory before you use it." Offload the busywork, keep the thinking. The struggle is where the learning actually sticks.
+
+**Keep them watching:** Open on "they could not quote their own essay," then explain the EEG result.
+
+---
+
+## THE SOCIAL-REWARD LOOP
+
+**The tension:** Compulsively checking your feed may be tuning your brain to crave approval, on a measurable schedule.
+
+**Audio lines (read in order):**
+- Hook: "Scientists scanned teenagers' brains for three years, and the habitual feed-checkers' brains changed."
+- Build: "The kids who checked social media constantly grew more sensitive to social rewards and punishments over time. The ones who did not check grew less sensitive."
+- Turn: "Their brains were tuning themselves to care more about likes and approval, year after year."
+- Land: "Here is the honest twist. The scientists say this might be the brain adapting to its world, not breaking. We do not get to call it damage yet."
+
+**Your receipts:** Maza, Telzer, Prinstein et al. (JAMA Pediatrics, 2023, UNC) scanned 169 students yearly for three years; habitual checkers (around 15 or more times a day) showed increasing neural sensitivity to anticipated social rewards, while non-habitual checkers showed decreasing sensitivity ([JAMA Pediatrics](https://pubmed.ncbi.nlm.nih.gov/36595277/)). The US Surgeon General's 2023 advisory notes adolescents using social media more than 3 hours a day face roughly double the risk of depression and anxiety symptoms ([advisory](https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf)). Caveat: correlational, possibly bidirectional, and the authors say the change could be adaptive. Do not say it rewires or damages teen brains.
+
+**Every generation:**
+- Gen Z: "Three years of checking and your brain cares about likes more, not less."
+- Millennials: "The dopamine loop is not a metaphor, it showed up on the scan."
+- Gen X: "The more they check, the more the approval starts to run them."
+- Boomers: "Chasing approval on a screen, and it shapes the young mind."
+
+**The fix (CTA):** "Put the first and last 30 minutes of the day phone-free, especially for teens." You cannot un-tune the loop overnight, but you can stop feeding it on a schedule. Protect the moments that set the tone for the day.
+
+**Keep them watching:** Hook on "their brains changed over three years," and keep the adaptive-not-damage caveat as the credibility beat.
+
+---
+
+## DOOMSCROLLING AND THE NEGATIVITY BIAS
+
+**The tension:** Your brain is built to chase bad news, and your feed knows it.
+
+**Audio lines (read in order):**
+- Hook: "Your brain processes one piece of bad news more thoroughly than several pieces of good news. It is called the negativity bias."
+- Build: "Bad is simply stronger than good in the brain. Threats got our ancestors to tomorrow, so we evolved to scan for them."
+- Turn: "The feed found that ancient wiring and built a business on it. That is doomscrolling. You are not weak, you are being fed exactly what your threat radar craves."
+- Land: "The people stuck in it report far worse mental and physical health, though distress may drive the scrolling as much as the other way around."
+
+**Your receipts:** "Bad is stronger than good" is a robust principle (Baumeister et al., 2001). Recent work links problematic news consumption to ill-being: McLaughlin et al. (Health Communication, 2023) found the 16.5 percent with severely problematic news habits reported far higher rates of mental and physical ill-being than light consumers, and a 2024 study replicated it ([study](https://pubmed.ncbi.nlm.nih.gov/35999665/)). Caveat: these are cross-sectional and self-reported, so reverse causation is likely (distressed people doomscroll more). Do not say doomscrolling causes illness.
+
+**Every generation:**
+- Gen Z: "Doomscrolling is not a vibe, it is your threat radar getting farmed."
+- Millennials: "One bad headline outweighs ten good ones in your head. That is the bias."
+- Gen X: "If it bleeds it leads, because your brain cannot look away."
+- Boomers: "Bad news sticks and good news slides off. Always has."
+
+**The fix (CTA):** "Set a hard cap on news, and never scroll it first thing or last thing in the day." Your radar is not broken, it is being exploited, so put a fence around it. Trade the doom feed for one trusted daily check.
+
+**Keep them watching:** Hook on "your brain craves bad news," then reveal the evolutionary reason.
+
+---
+
+## MICROPLASTICS IN THE BRAIN
+
+**The tension:** A 2025 study estimated the average brain now holds about a spoon's worth of plastic. The fight over whether that is real is just as interesting.
+
+**Audio lines (read in order):**
+- Hook: "A 2025 study estimated the average human brain now holds about a plastic spoon's worth of microplastics. And brains from 2024 had more than brains from 2016."
+- Build: "Published in one of the top medical journals. Brain tissue carried several times more plastic than the liver or kidney, and dementia brains had the most."
+- Turn: "But here is the honest part. Other scientists say the method may overcount, because brain fat can mimic plastic on the test, and the dementia link is probably backwards."
+- Land: "So do not panic about the spoon. Watch the trend. The amount is climbing, and that is the part worth taking seriously."
+
+**Your receipts:** Nihart, Campen et al. (Nature Medicine, 2025) estimated roughly 7 grams, a spoon's worth, of micro and nanoplastics in the median 2024 brain, several times more than in liver or kidney, about 50 percent higher than 2016 samples, and higher in dementia brains ([Nature Medicine](https://www.nature.com/articles/s41591-024-03453-1)). Caveat: this is decedent tissue and correlational, dementia itself disrupts the blood-brain barrier (so reverse causation is likely), and critics argue the method can overestimate plastic because brain lipids produce similar signatures. Do not say plastic causes dementia.
+
+**Every generation:**
+- Gen Z: "There is allegedly a spoon of plastic in your brain. No notes, just horror."
+- Millennials: "A spoon's worth of microplastics, and the number is going up every year."
+- Gen X: "Plastic is showing up in places it has no business being, like the brain."
+- Boomers: "All that plastic we made is ending up inside us. Let that sink in."
+
+**The fix (CTA):** "You cannot detox plastic, so cut the intake: filter your tap water and stop microwaving food in plastic." Reduce what you can control and ignore the panic-detox products. Lowering exposure beats chasing a cleanse that does not exist.
+
+**Keep them watching:** Hook on the spoon, then earn trust with "but scientists are fighting about it" before the takeaway.
+
+---
+
+## ULTRA-PROCESSED FOOD AND THE BRAIN
+
+**The tension:** What you eat may be talking to your mood, and the data is getting hard to ignore.
+
+**Audio lines (read in order):**
+- Hook: "A 2024 review of nearly 10 million people found the heaviest ultra-processed food eaters had about 50 percent higher odds of anxiety and common mental disorders."
+- Build: "Not just one study. An umbrella review pooling 14 meta-analyses, all pointing the same direction, including a higher rate of new depression."
+- Turn: "Now the honest caveat. Every bit of this is observational. We cannot yet say the food causes the mood, because the people eating it differ in a hundred other ways."
+- Land: "But the signal is consistent across millions of people. That is worth a second look at what is on your plate."
+
+**Your receipts:** Lane et al. (The BMJ, 2024), an umbrella review of 14 meta-analyses covering roughly 9.9 million people, linked higher ultra-processed food intake to anxiety (about 48 percent higher odds) and common mental disorders, plus a 22 percent higher hazard of new depression ([BMJ](https://pmc.ncbi.nlm.nih.gov/articles/PMC10899807/)). Caveat: all observational, heavily confounded by income, smoking, and weight, graded low quality, and the "ultra-processed" label lumps soda with packaged whole-grain bread. Do not say it causes depression.
+
+**Every generation:**
+- Gen Z: "Your gas-station diet might be doing more than your waistline dirty."
+- Millennials: "Turns out the sad-desk-lunch and the sad part might be connected."
+- Gen X: "More packaged food, more reported anxiety. The pattern keeps showing up."
+- Boomers: "Real food versus food-like products. The body can tell the difference."
+
+**The fix (CTA):** "Swap one ultra-processed meal a day for something you could recognize as food a century ago." You do not need a perfect diet, just less of the stuff with a 30-item ingredient list. Small swaps, repeated, move the needle.
+
+**Keep them watching:** Lead with the 10-million-person stat, then the honest "but we cannot prove cause" beat.
+
+---
+
+## EXERCISE: THE REAL NOOTROPIC
+
+**The tension:** The most powerful brain drug is not a pill, and the trial data is enormous.
+
+**Audio lines (read in order):**
+- Hook: "Pooling over a thousand trials and 128,000 people, exercise beat the leading medications and therapy for depression by about one and a half times."
+- Build: "It is not just mood. Exercise raises a protein called BDNF, basically fertilizer for your brain cells, and sharpens focus and flexibility."
+- Turn: "And higher intensity meant bigger effects. A brisk walk is good, but pushing a little does more."
+- Land: "The most effective brain enhancer we have is free, and you already own it."
+
+**Your receipts:** Singh et al. (British Journal of Sports Medicine, 2023), an umbrella review of 97 reviews, 1,039 trials, and 128,119 people, found medium effects of physical activity on depression and anxiety, with benefits up to about 1.5 times those typically seen for medication or therapy ([BJSM](https://pmc.ncbi.nlm.nih.gov/articles/PMC10579187/)). Exercise reliably raises BDNF, a leading mechanism. Caveat: most trials were short, certainty was rated low to moderate, blinding is hard, and BDNF spikes are often transient, so do not present "exercise beats antidepressants" as the final word.
+
+**Every generation:**
+- Gen Z: "The best nootropic is free. It is called going for a run."
+- Millennials: "Touch grass, except it is medically recommended for your brain."
+- Gen X: "Exercise is the closest thing we have to a wonder drug for the mind."
+- Boomers: "A daily walk does more for the head than most pills."
+
+**The fix (CTA):** "Get your heart rate up for 20 minutes today, and call it brain maintenance, not just fitness." You do not need a gym, you need intensity and consistency. The effect on mood starts the same day.
+
+**Keep them watching:** Hook on "it beat the medications by 1.5 times," then explain BDNF simply.
+
+---
+
+## THE GUT-BRAIN AXIS
+
+**The tension:** Your gut and your brain are on a direct line, but the hype is way ahead of the proof.
+
+**Audio lines (read in order):**
+- Hook: "Your gut has a direct phone line to your brain. It is called the vagus nerve, and most of your serotonin is made down there."
+- Build: "In animals, swapping gut bacteria can swap behavior. That finding launched a thousand probiotic ads."
+- Turn: "Here is the honest part nobody selling you a powder will say. In humans the evidence is small, mixed, and early. Most of the dramatic stuff is in mice."
+- Land: "The connection is real. The miracle supplement is not, at least not yet."
+
+**Your receipts:** The gut-brain axis is real, with the vagus nerve as the main highway. The strongest recent human signal: Nikolova, Cleare et al. (JAMA Psychiatry, 2023), a double-blind trial of 49 adults, found an add-on probiotic improved depression and anxiety more than placebo, but the authors called it a promising pilot needing a definitive trial ([JAMA Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC10267847/)). Caveat: most striking results are in mice or tiny healthy-volunteer studies, effects are strain-specific, and "psychobiotic" is not an approved treatment. Do not overclaim.
+
+**Every generation:**
+- Gen Z: "Your gut bacteria might be in the group chat with your brain. Loosely."
+- Millennials: "Trust your gut turns out to be almost a neurological statement."
+- Gen X: "The gut and brain talk constantly. The supplement aisle oversells it."
+- Boomers: "A gut feeling has a real wire behind it. The pills are another story."
+
+**The fix (CTA):** "Feed the gut the boring way that actually has evidence: fiber, fermented foods, and less ultra-processed junk." Skip the miracle psychobiotic claims until the human trials catch up. Real food beats a hopeful powder.
+
+**Keep them watching:** Hook on "most of your serotonin is made in your gut," then the honest "the supplements oversell it" turn.
+
+---
+
+## THE BRAIN WASH
+
+**The tension:** The famous idea that sleep flushes toxins from your brain just got flipped, and scientists are openly fighting about it.
+
+**Audio lines (read in order):**
+- Hook: "You have heard that your brain washes itself clean while you sleep. A 2024 study suggests the opposite might be true."
+- Build: "The original 2013 finding was huge. During sleep, channels in the brain open up and clear out waste, including the gunk linked to Alzheimer's."
+- Turn: "Then in 2024 another team measured it directly and found clearance actually slowed down during sleep. They say the first study confused fluid going in with waste coming out."
+- Land: "So the headline you have repeated for a decade is now an open fight. Sleep is still essential. Why is the part nobody can agree on."
+
+**Your receipts:** Xie et al. (Science, 2013) found sleep expanded the brain's interstitial space and roughly doubled clearance of beta-amyloid in mice ([Science](https://www.science.org/doi/abs/10.1126/science.1241224)). But Miao, Franks and Wisden (Nature Neuroscience, 2024) measured clearance directly and found it fell during sleep and anesthesia, arguing earlier work confused tracer entry with clearance ([Nature Neuroscience](https://www.nature.com/articles/s41593-024-01638-y)). Caveat: do not state "sleep flushes toxins" as settled fact, it is actively disputed as of 2024. Sleep's importance is not in question, the mechanism is.
+
+**Every generation:**
+- Gen Z: "The brain-wash-while-you-sleep thing might be fake news, and scientists are beefing about it."
+- Millennials: "That clean-your-brain-while-you-sleep fact we all repeated is under serious dispute now."
+- Gen X: "The science on what sleep actually does is still being argued. Honestly refreshing."
+- Boomers: "They are not even sure how sleep cleans the mind, just that you need it."
+
+**The fix (CTA):** "Do not overthink the mechanism, just protect the hours: consistent schedule, cool dark room, no screens at the end." The why is debated, the need is not. Guard sleep like the non-negotiable it is.
+
+**Keep them watching:** Hook on "the thing you have repeated for a decade just got flipped," then stage the 2013 versus 2024 fight.
+
+---
+
+## YOU GROW NEW BRAIN CELLS
+
+**The tension:** For a hundred years science argued whether adult brains can grow new neurons. In 2025 they caught the cells in the act.
+
+**Audio lines (read in order):**
+- Hook: "You were probably taught that you are born with all the brain cells you will ever have. In 2025 that basically got disproven on camera."
+- Build: "For a century scientists fought over whether the adult human brain makes new neurons. Two famous 2018 studies looked at the same tissue and reached opposite answers."
+- Turn: "Then a 2025 study found the actual dividing cells, the long-missing parents of new neurons, in adult human brains."
+- Land: "Your brain is not a fixed lump you slowly lose. It is still building, into old age. The catch is how much varies wildly person to person."
+
+**Your receipts:** Dumitru, Frisén et al. (Science, 2025) used single-nucleus RNA sequencing of about 300,000 hippocampal cells from donors aged 0 to 78 and identified actively dividing neural progenitor cells in the adult human hippocampus, the long-sought cells of origin ([Science](https://www.science.org/doi/10.1126/science.adu9575)). Earlier, Spalding et al. (2013) estimated about 700 new neurons a day per hippocampus. Caveat: these progenitor cells are genuinely rare (a few hundred out of 300,000) and the amount varies enormously between people, so do not claim a fixed rate or that everyone grows a lot.
+
+**Every generation:**
+- Gen Z: "Neuroplasticity is real and your brain is still cooking. Take the W."
+- Millennials: "You can still grow new brain cells as an adult. It is not over at 25."
+- Gen X: "Old dog, new neurons. The fixed-brain thing was wrong."
+- Boomers: "The brain keeps making new cells later in life. It is never too late to learn."
+
+**The fix (CTA):** "Feed the new-neuron process with what supports it: aerobic exercise, learning hard new skills, and real sleep." Your brain is still building, so give it materials and a reason. Novelty and movement are the fuel.
+
+**Keep them watching:** Hook on "everything you were taught about fixed brain cells was wrong," then the 2025 reveal.
+
+---
+
+## CAFFEINE AND THE ADENOSINE CRASH
+
+**The tension:** Caffeine does not give you energy. It hides the fact that you are tired, and the bill comes due.
+
+**Audio lines (read in order):**
+- Hook: "Caffeine does not give you energy. It just blocks the signal that tells you that you are tired."
+- Build: "All day a molecule called adenosine builds up and makes you sleepy. Caffeine plugs the receptors so you cannot feel it. But the adenosine keeps stacking up behind the wall."
+- Turn: "When the caffeine wears off, that whole backlog hits at once. That is your afternoon crash. You did not run out of energy, you got the tiredness bill all at once."
+- Land: "And it lingers. A coffee six hours before bed still measurably steals your deep sleep, which makes tomorrow worse."
+
+**Your receipts:** Caffeine is an adenosine receptor antagonist; it blocks the "you are tired" signal rather than creating energy, while adenosine keeps accumulating. Its half-life is about 5 to 6 hours. Drake et al. (J Clin Sleep Med, 2013) found 400 mg even 6 hours before bed cut objective sleep by over an hour ([study](https://pubmed.ncbi.nlm.nih.gov/24235903/)); a 2025 Sleep trial found 400 mg four hours before bed cut total and deep sleep significantly, while 100 mg did not. Caveat: this is not anti-caffeine, moderate intake is safe and even beneficial, and the big sleep hits are at high doses. The crash is unmasked adenosine plus mild withdrawal, not toxicity.
+
+**Every generation:**
+- Gen Z: "Caffeine is a loan, not a gift, and the 3pm crash is the interest."
+- Millennials: "Your coffee is not energy, it is a snooze button you pay for later."
+- Gen X: "That afternoon slump is the caffeine wearing off all at once."
+- Boomers: "Coffee masks tired, it does not cure it, and it wrecks the sleep."
+
+**The fix (CTA):** "Cut off caffeine by early afternoon and hydrate, because the crash is backed-up tiredness, not a missing dose." Front-load it, then let your body settle the bill before bed. Better sleep tonight means less crash tomorrow.
+
+**Keep them watching:** Hook on "caffeine does not give you energy," then explain the adenosine wall.
+
+---
+
+## A WANDERING MIND IS AN UNHAPPY MIND
+
+**The tension:** You spend nearly half your life not thinking about what you are doing, and that wandering predicts your mood more than the activity itself.
+
+**Audio lines (read in order):**
+- Hook: "A Harvard study tracking 2,250 people found we spend about 47 percent of our waking hours not thinking about what we are actually doing."
+- Build: "And where the mind went predicted happiness more than what people were physically doing. A wandering mind was an unhappy mind."
+- Turn: "But the honest update matters. It is not all wandering that hurts. Drifting to pleasant or interesting thoughts can lift you. It is the spiral into worry and unresolved problems that drags you down."
+- Land: "Presence is a skill, and it is one of the few that reliably moves your baseline mood."
+
+**Your receipts:** Killingsworth and Gilbert (Science, 2010) sampled 2,250 people in real time and found minds wandered about 47 percent of waking hours, and that wandering predicted lower happiness, with timing analysis hinting wandering was the cause ([Harvard](https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/)). Bratman et al. (PNAS, 2015) found a 90 minute nature walk reduced rumination and quieted a brain region tied to it. Caveat: later work shows valence matters, since wandering to pleasant topics can help, so the catchy line oversimplifies, and the 2010 finding is correlational sampling.
+
+**Every generation:**
+- Gen Z: "You are dissociating through half your life and it is tanking the vibe."
+- Millennials: "Be present is annoying advice that happens to be backed by Harvard."
+- Gen X: "Half the time your body is here and your head is somewhere worse."
+- Boomers: "Wherever you are, be there. The mind wandering off is what stings."
+
+**The fix (CTA):** "When you catch your mind spiraling, name what you are actually doing right now and return to it." You cannot stop wandering, but you can shorten the worry loops. A few minutes of real presence resets the mood more than the activity does.
+
+**Keep them watching:** Hook on the 47 percent, then the honest "it depends where you wander" turn.
