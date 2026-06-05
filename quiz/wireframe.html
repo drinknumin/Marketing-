@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Numin Decision Quiz — Wireframe</title>
+<style>
+  * { box-sizing: border-box; margin:0; padding:0; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color:#3a3f44; background:#dfe1e4; }
+
+  .board { padding:40px; }
+  .board-head { font-size:13px; font-weight:800; letter-spacing:.12em; color:#6b7178; text-transform:uppercase; margin-bottom:4px; }
+  .board-sub { font-size:13px; color:#8b9097; margin-bottom:28px; }
+
+  .row { display:flex; flex-wrap:wrap; gap:34px 30px; align-items:flex-start; }
+
+  /* screen label */
+  .frame-wrap { display:flex; flex-direction:column; }
+  .flabel { font-size:12px; font-weight:800; color:#5a6066; margin-bottom:8px; display:flex; align-items:center; gap:7px; }
+  .fnum { background:#3a3f44; color:#fff; width:19px; height:19px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-size:11px; }
+  .annot { margin-top:10px; max-width:330px; background:#fdf6d8; border:1px solid #e7d893; border-left:4px solid #d9c25b; border-radius:5px; padding:8px 10px; font-size:11.5px; line-height:1.45; color:#6e5f1c; }
+  .annot b { color:#5a4d12; }
+
+  /* generic screen content (wireframe) */
+  .screen { background:#fff; border:1px solid #c4c9ce; }
+  .scr-pad { padding:20px 18px; display:flex; flex-direction:column; gap:12px; }
+
+  .close { align-self:flex-end; width:24px; height:24px; border:1.5px solid #c4c9ce; border-radius:50%; display:flex; align-items:center; justify-content:center; color:#9aa0a6; font-size:15px; line-height:1; margin-bottom:-6px;}
+  .eyebrow { font-size:10.5px; font-weight:800; letter-spacing:.14em; color:#9aa0a6; text-transform:uppercase; }
+  h2.wf { font-size:23px; line-height:1.18; font-weight:800; color:#2b2f33; }
+  h3.wf { font-size:17px; line-height:1.25; font-weight:700; color:#2b2f33; }
+  .sub { font-size:13.5px; line-height:1.5; color:#70767c; }
+  .trust { font-size:11px; color:#9aa0a6; }
+
+  .imgbox { background:#eef0f2; border:1.5px dashed #c4c9ce; border-radius:6px; display:flex; align-items:center; justify-content:center; text-align:center; color:#a7adb3; font-size:10.5px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; }
+
+  .btn { border-radius:8px; padding:13px 16px; font-size:14px; font-weight:700; text-align:center; border:1.5px solid #2b2f33; }
+  .btn.primary { background:#2b2f33; color:#fff; }
+  .btn.ghost { background:#fff; color:#2b2f33; }
+
+  .top { display:flex; align-items:center; gap:10px; }
+  .back { color:#9aa0a6; font-size:16px; }
+  .bar { flex:1; height:6px; background:#eaecee; border-radius:99px; overflow:hidden; }
+  .bar > i { display:block; height:100%; background:#3a3f44; }
+  .step { font-size:11px; color:#9aa0a6; font-weight:700; }
+
+  .opt { border:1.5px solid #d3d8dc; border-radius:8px; padding:12px 12px; font-size:13px; color:#4a5056; display:flex; align-items:center; gap:10px; }
+  .opt::before { content:""; width:16px; height:16px; border:1.5px solid #c4c9ce; border-radius:50%; flex:none; }
+  .opt.sel { border-color:#3a3f44; }
+  .opt.sel::before { background:#3a3f44; box-shadow: inset 0 0 0 3px #fff; border-color:#3a3f44; }
+
+  .qcount { font-size:10.5px; font-weight:800; letter-spacing:.1em; color:#a7adb3; text-transform:uppercase; }
+  .scale { display:flex; gap:8px; justify-content:space-between; }
+  .scale > span { flex:1; aspect-ratio:1/1; border:1.5px solid #d3d8dc; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:700; color:#9aa0a6; }
+  .scale > span.sel { border-color:#3a3f44; background:#3a3f44; color:#fff; }
+  .scale-lab { display:flex; justify-content:space-between; font-size:10.5px; color:#a7adb3; }
+
+  .lock { width:34px; height:28px; align-self:center; margin-top:6px; background:#fff; border:2.5px solid #9aa0a6; border-radius:5px; position:relative; }
+  .lock::before { content:""; position:absolute; left:50%; top:-15px; transform:translateX(-50%); width:18px; height:18px; border:2.5px solid #9aa0a6; border-bottom:none; border-radius:9px 9px 0 0; }
+  .lock::after { content:""; position:absolute; left:50%; top:7px; transform:translateX(-50%); width:5px; height:10px; background:#9aa0a6; border-radius:2px; }
+  .chip { align-self:center; background:#eef0f2; border:1px solid #d3d8dc; border-radius:99px; padding:5px 12px; font-size:11px; font-weight:800; letter-spacing:.06em; color:#5a6066; text-transform:uppercase; }
+  .input { border:1.5px solid #c4c9ce; border-radius:8px; padding:13px 12px; font-size:13px; color:#b3b9bf; }
+  .micro { font-size:10.5px; color:#a7adb3; text-align:center; }
+
+  .badge { width:60px; height:60px; border-radius:50%; align-self:center; }
+  .gauge { display:flex; gap:5px; }
+  .gauge > span { flex:1; text-align:center; font-size:10px; font-weight:800; letter-spacing:.04em; padding:6px 2px; border-radius:5px; background:#eef0f2; color:#b0b6bc; }
+  .gauge > span.on { background:#3a3f44; color:#fff; }
+  .score { font-size:12px; font-weight:700; color:#70767c; text-align:center; }
+  .card { border:1.5px solid #d3d8dc; border-radius:9px; padding:13px; font-size:12.5px; line-height:1.5; color:#4a5056; }
+  .card b { color:#2b2f33; font-size:13.5px; }
+  .qw { color:#70767c; font-style:italic; }
+  .sci { font-size:10.5px; color:#a7adb3; line-height:1.45; }
+
+  .tk { display:flex; align-items:center; gap:10px; border:1.5px solid #e0e4e7; border-radius:8px; padding:10px 12px; font-size:12.5px; color:#4a5056; }
+  .tk .ck { width:18px; height:18px; border-radius:50%; background:#3a3f44; color:#fff; font-size:11px; display:flex; align-items:center; justify-content:center; flex:none; }
+  .tk .tag { margin-left:auto; font-size:10px; font-weight:800; color:#a7adb3; }
+  .numin { display:flex; align-items:center; gap:11px; border:1.5px dashed #c4c9ce; border-radius:9px; padding:11px; font-size:12px; color:#70767c; }
+  .numin b { color:#2b2f33; }
+  .numin .link { margin-left:auto; font-size:12px; font-weight:800; color:#2b2f33; white-space:nowrap; }
+  .share { text-align:center; font-size:12px; font-weight:700; color:#70767c; }
+
+  /* ===== DESKTOP modal cards ===== */
+  #desktop .screen { width:430px; border-radius:12px; box-shadow:0 18px 40px rgba(0,0,0,.12); }
+  /* in-context hero */
+  .context { width:980px; height:560px; background:#f3f4f6; border:1px solid #c4c9ce; border-radius:10px; position:relative; overflow:hidden; }
+  .ctx-dim { position:absolute; inset:0; background:rgba(20,22,24,.45); }
+  .ctx-bar { height:46px; background:#fff; border-bottom:1px solid #e3e6e9; display:flex; align-items:center; gap:14px; padding:0 22px; }
+  .ctx-logo { width:74px; height:16px; background:#d7dbdf; border-radius:4px; }
+  .ctx-nav { width:46px; height:9px; background:#e3e6e9; border-radius:4px; }
+  .ctx-hero { padding:46px; display:flex; gap:30px; }
+  .ctx-lines > div { height:13px; background:#dfe3e6; border-radius:4px; margin-bottom:11px; }
+  .ctx-modal { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); }
+
+  /* ===== MOBILE phone frames ===== */
+  .phone { width:300px; background:#15181b; border-radius:34px; padding:10px; box-shadow:0 14px 30px rgba(0,0,0,.16); }
+  .notch { width:120px; height:18px; background:#15181b; border-radius:0 0 12px 12px; margin:0 auto 0; position:relative; top:-1px; }
+  #mobile .screen { width:100%; border:none; border-radius:25px; min-height:520px; }
+  #mobile .scr-pad { padding:20px 16px; }
+  .mtop { height:14px; }
+</style>
+</head>
+<body>
+
+<div class="board" id="desktop">
+  <div class="board-head">Desktop — pop-up modal over the site (≈1280px)</div>
+  <div class="board-sub">The quiz opens as a centered modal that dims drinknumin.com behind it. Same 6 states as mobile; shown here as modal cards.</div>
+
+  <div class="row" style="margin-bottom:36px;">
+    <div class="frame-wrap">
+      <div class="flabel"><span class="fnum">1</span> In-context: trigger + cover</div>
+      <div class="context">
+        <div class="ctx-bar"><div class="ctx-logo"></div><div class="ctx-nav"></div><div class="ctx-nav"></div><div class="ctx-nav"></div></div>
+        <div class="ctx-hero">
+          <div class="ctx-lines" style="flex:1">
+            <div style="width:60%;height:22px"></div><div style="width:90%"></div><div style="width:80%"></div><div style="width:40%;height:34px;margin-top:18px"></div>
+          </div>
+          <div class="imgbox" style="width:300px;height:300px">Product visual</div>
+        </div>
+        <div class="ctx-dim"></div>
+        <div class="ctx-modal" id="ctx-modal-slot"></div>
+      </div>
+      <div class="annot"><b>Trigger:</b> ~15s on page or exit-intent (set in Octane AI). Page dims; modal centers.</div>
+    </div>
+  </div>
+
+  <div class="row" id="desktop-cards"></div>
+</div>
+
+<div class="board" id="mobile" style="background:#e7e9eb;">
+  <div class="board-head">Mobile — full-screen sheet (≈390px)</div>
+  <div class="board-sub">On phones the pop-up fills the screen. Tap-friendly targets, one question per screen, sticky progress bar.</div>
+  <div class="row" id="mobile-phones"></div>
+</div>
+
+<script>
+const screens = [
+  {
+    label: "Cover / invite",
+    annot: "<b>Hook screen.</b> Curiosity headline + the gated reward named up front. Trust line borrows Dr. Watson's authority.",
+    html: `
+      <div class="close">×</div>
+      <div class="imgbox" style="height:84px">Visual — Dr. Watson / product</div>
+      <div class="eyebrow">Free · 2-min assessment</div>
+      <h2 class="wf">What kind of decision-maker are you?</h2>
+      <div class="sub">Discover your Decision Profile — and get a free toolkit built to sharpen it.</div>
+      <div class="btn primary">Find my type →</div>
+      <div class="trust">· Based on <i>Every Decision Counts</i> · 206 peer-reviewed studies</div>`
+  },
+  {
+    label: "Profile question (×2)",
+    annot: "<b>Q1 sorts you into 1 of 6 profiles.</b> Tap a statement → auto-advance. A 2nd behavioral Q confirms the type.",
+    html: `
+      <div class="top"><span class="back">←</span><div class="bar"><i style="width:9%"></i></div><span class="step">1 / 12</span></div>
+      <div class="qcount">Your profile</div>
+      <h3 class="wf">When it comes to decisions, which hits closest to home?</h3>
+      <div class="opt sel">If I lose my mental edge, I don't feel like myself.</div>
+      <div class="opt">Too many decisions are coming at me at once.</div>
+      <div class="opt">Everything funnels through me — work and home.</div>
+      <div class="opt">My work leaves no room for error.</div>
+      <div class="opt">I want to understand the mechanism and optimize it.</div>
+      <div class="opt">My brain works differently than it used to.</div>`
+  },
+  {
+    label: "Fatigue scale (×10)",
+    annot: "<b>Dr. Watson's 10-item assessment, verbatim.</b> 1–5 scale each → your Mild / Moderate / Severe score.",
+    html: `
+      <div class="top"><span class="back">←</span><div class="bar"><i style="width:42%"></i></div><span class="step">5 / 12</span></div>
+      <div class="qcount">Question 3 of 10 · Fatigue check</div>
+      <h3 class="wf">"By late afternoon, I find it hard to make even simple choices."</h3>
+      <div class="scale"><span>1</span><span>2</span><span class="sel">3</span><span>4</span><span>5</span></div>
+      <div class="scale-lab"><span>Never</span><span>Almost always</span></div>
+      <div style="height:4px"></div>
+      <div class="card" style="border-style:dashed"><b>+ 1 amplifier Q</b><br>"Do others depend on your decisions?" → Yes adds the Central-Node tax.</div>`
+  },
+  {
+    label: "Email gate (locked)",
+    annot: "<b>THE GATE.</b> Profile teased, results withheld until email. Syncs to Klaviyo; triggers the toolkit flow.",
+    html: `
+      <div class="close">×</div>
+      <div class="lock"></div>
+      <div class="chip">Your profile: The Load Accumulator</div>
+      <h3 class="wf" style="text-align:center">Your results are ready.</h3>
+      <div class="sub" style="text-align:center">Where should we send your personalized Decision Toolkit?</div>
+      <div class="input">name@email.com</div>
+      <div class="btn primary">Show my results →</div>
+      <div class="micro">No spam. Unsubscribe anytime.</div>`
+  },
+  {
+    label: "Result — the answer",
+    annot: "<b>The payoff.</b> Profile + fatigue band + the single highest-return move. Dynamic: 6 profiles × 3 bands.",
+    html: `
+      <div class="imgbox badge">Icon</div>
+      <div class="eyebrow" style="text-align:center">Your decision profile</div>
+      <h2 class="wf" style="text-align:center">The Load Accumulator</h2>
+      <div class="sub" style="text-align:center">"Everything funnels through you — at work and at home. That's a real cognitive tax."</div>
+      <div class="gauge"><span>Mild</span><span class="on">Moderate</span><span>Severe</span></div>
+      <div class="score">Decision Fatigue score: 29 / 50</div>
+      <div class="card"><b>Your #1 move → Default Architecture</b><br>Make the good choice the easy choice, so you stop re-deciding.<br><span class="qw">Quick win today: lay out tomorrow tonight + install 3 defaults.</span></div>
+      <div class="sci">The science: decisions burn glutamate in your prefrontal cortex faster than it clears — that's the 4pm fog. Caffeine doesn't touch it.</div>`
+  },
+  {
+    label: "Unlocked toolkit + CTA",
+    annot: "<b>Book/toolkit-first.</b> 4 PDFs delivered, then the book. Numin = one soft, earned line. Share = viral loop.",
+    html: `
+      <div class="eyebrow">Unlocked · sent to your inbox</div>
+      <h3 class="wf">Your Decision Toolkit</h3>
+      <div class="tk"><span class="ck">✓</span> Decision Fatigue Self-Assessment <span class="tag">PDF</span></div>
+      <div class="tk"><span class="ck">✓</span> Quick Reference Card <span class="tag">PDF</span></div>
+      <div class="tk"><span class="ck">✓</span> The Decision List <span class="tag">PDF</span></div>
+      <div class="tk"><span class="ck">✓</span> 30-Day Decision Reset <span class="tag">PDF</span></div>
+      <div class="btn primary">Email me the toolkit</div>
+      <div class="btn ghost">Read <i>Every Decision Counts</i> →</div>
+      <div class="numin"><div class="imgbox" style="width:38px;height:38px">Can</div><div>Big day ahead? Clear the glutamate on demand — <b>that's Numin.</b></div><span class="link">Shop →</span></div>
+      <div class="share">Share your type »</div>`
+  }
+];
+
+function screenEl(s){
+  const d = document.createElement('div');
+  d.className = 'screen';
+  d.innerHTML = `<div class="scr-pad">${s.html}</div>`;
+  return d;
+}
+function wrap(s, idx, kind){
+  const w = document.createElement('div'); w.className='frame-wrap';
+  const lab = document.createElement('div'); lab.className='flabel';
+  lab.innerHTML = `<span class="fnum">${idx}</span> ${s.label}`;
+  w.appendChild(lab);
+  if(kind==='phone'){
+    const ph = document.createElement('div'); ph.className='phone';
+    ph.innerHTML = '<div class="notch"></div>';
+    ph.appendChild(screenEl(s));
+    w.appendChild(ph);
+  } else {
+    w.appendChild(screenEl(s));
+  }
+  const a = document.createElement('div'); a.className='annot'; a.innerHTML = s.annot;
+  w.appendChild(a);
+  return w;
+}
+
+// desktop: cover goes into the in-context slot; all 6 as cards
+const slot = document.getElementById('ctx-modal-slot');
+const cover = screenEl(screens[0]); cover.style.width='360px'; slot.appendChild(cover);
+
+const dc = document.getElementById('desktop-cards');
+screens.forEach((s,i)=> dc.appendChild(wrap(s, i+1, 'card')));
+
+const mp = document.getElementById('mobile-phones');
+screens.forEach((s,i)=> mp.appendChild(wrap(s, i+1, 'phone')));
+</script>
+</body>
+</html>
