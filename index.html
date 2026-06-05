@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Numin · Decision Quiz Prototype</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#f5f6f7;color:#23272b;line-height:1.5;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px;margin:0 auto;padding:56px 24px 80px}
+  .eyebrow{font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#9aa0a6}
+  h1{font-size:34px;font-weight:800;margin:10px 0 10px;letter-spacing:-.01em;line-height:1.12}
+  .lead{font-size:16px;color:#5a6066;max-width:640px}
+  .cta{display:inline-block;margin-top:26px;background:#23272b;color:#fff;text-decoration:none;font-weight:700;font-size:15px;padding:14px 22px;border-radius:10px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:50px}
+  @media(max-width:760px){.grid{grid-template-columns:1fr}h1{font-size:27px}}
+  .card{background:#fff;border:1px solid #e4e7ea;border-radius:14px;overflow:hidden;text-decoration:none;color:inherit;display:block;box-shadow:0 2px 12px rgba(0,0,0,.05)}
+  .card img{width:100%;display:block;border-bottom:1px solid #eef0f2;background:#dfe1e4}
+  .card .meta{padding:16px 18px}
+  .card h3{font-size:16px;font-weight:700;margin-top:8px}
+  .card p{font-size:13px;color:#8b9097;margin-top:3px}
+  .tag{display:inline-block;background:#eef0f2;color:#6b7178;font-size:11px;font-weight:800;letter-spacing:.05em;padding:4px 9px;border-radius:99px;text-transform:uppercase}
+  .foot{margin-top:50px;font-size:12px;color:#a7adb3}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="eyebrow">Numin · Internal prototype</span>
+  <h1>What Kind of Decision-Maker Are You?</h1>
+  <p class="lead">Pop-up quiz concept built on Dr. Shawn Watson's <i>Every Decision Counts</i> framework — types you into 1 of 6 decision profiles, scores your decision fatigue, and gates the toolkit behind an email. This is the wireframe stage: layout &amp; flow, not final visuals.</p>
+  <a class="cta" href="quiz/wireframe.html">Open the full wireframes →</a>
+  <div class="grid">
+    <a class="card" href="quiz/wireframe.html#desktop">
+      <img src="quiz/wireframe-desktop.png" alt="Desktop wireframe">
+      <div class="meta"><span class="tag">Desktop</span><h3>Modal overlay</h3><p>Centered pop-up that dims the site — all 6 screens.</p></div>
+    </a>
+    <a class="card" href="quiz/wireframe.html#mobile">
+      <img src="quiz/wireframe-mobile.png" alt="Mobile wireframe">
+      <div class="meta"><span class="tag">Mobile</span><h3>Full-screen sheet</h3><p>One question per screen, sticky progress bar.</p></div>
+    </a>
+  </div>
+  <p class="foot">Draft for internal review · drinknumin.com</p>
+</div>
+</body>
+</html>
