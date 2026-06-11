@@ -6,6 +6,8 @@
 
 All 31 topics below, original names and order.
 
+**Product bridge (read once):** Most topics now end with an optional **Bring it home** line that transitions to the product. It draws on Numin's own published study, a double-blind, randomized, placebo-controlled trial in Frontiers in Nutrition (2025): across a 13-hour session, the group on the caffeine-free formula improved their win rate and stayed more precise and efficient while the placebo group declined ([study](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1680030/full)). Numin's founder is a neuroscientist. Keep spoken claims to focus and decision-making support, and add once per caption: "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease."
+
 ---
 
 ## COGNITIVE OVERLOAD AS CONTROL
@@ -27,6 +29,8 @@ All 31 topics below, original names and order.
 - Boomers: "It is not your age. It is the noise. Nobody can think in this racket."
 
 **The fix (CTA):** "Make your big calls when you are fresh, not when you are fried, and take back the defaults someone else set for you." Protect your sharpest hours for real decisions, and cut the load weighing on them.
+
+**Bring it home:** The whole game runs on a depleted brain, so the counter-move is to stop arriving depleted. That is why our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue. In its own placebo-controlled trial, the group on it stayed sharp through a 13-hour grind while the placebo group slid.
 
 **Keep them watching:** Drop the name in the first two seconds, then make them wait for the 13 IQ point reveal.
 
@@ -52,6 +56,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Once a week, make the call before you check the reviews, and find your way without the app." Give your judgment reps so it does not atrophy. Verify after you decide, not before.
 
+**Bring it home:** Trusting your own judgment again is easier with a clear head than a foggy one. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, and in a placebo-controlled trial the group on it held performance across a 13-hour session while placebo declined.
+
 **Keep them watching:** Promise a list early. "Three things the apps quietly took from your brain." Then deliver one at a time.
 
 ---
@@ -75,6 +81,8 @@ All 31 topics below, original names and order.
 - Boomers: "It is all the little things hanging over your head at once."
 
 **The fix (CTA):** "Tonight, write the single next step for everything spinning in your head, then close the tabs." You do not need to finish it, you need to capture it. A two minute brain dump buys back the whole evening.
+
+**Bring it home:** Closing loops protects your decision-making, and so does fueling it. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue; in a double-blind trial, players on it sharpened over a 13-hour session while the placebo group faded.
 
 **Keep them watching:** Name the debt in the hook, then say "the fix takes ten seconds," and make them wait for it.
 
@@ -100,6 +108,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Pick one space where you are completely yourself, and protect it." The fewer versions of you that you have to maintain, the more energy you get back. Cut one account this week.
 
+**Bring it home:** All that switching is depleting, and depletion is exactly what our founder, a neuroscientist, formulated Numin against. In the caffeine-free formula's placebo-controlled trial, the group on it held steady through a 13-hour day while placebo slipped.
+
 **Keep them watching:** Name it, then hit "the fake account is the honest one" and let the contradiction hang for a beat.
 
 ---
@@ -123,6 +133,8 @@ All 31 topics below, original names and order.
 - Boomers: "The computer was supposed to save time. It made more work."
 
 **The fix (CTA):** "Batch your messages into two or three windows a day instead of 275 interruptions, and guard one real focus block." Turn off the pings that are not humans who know you. The clarity you defend is the clarity you keep.
+
+**Bring it home:** If the workday is built to fracture your focus, you defend it on purpose and back it up. Our founder, a neuroscientist, built Numin, a caffeine-free formula to hold focus under exactly this load; in a placebo-controlled trial the group on it kept their edge over 13 hours while placebo declined.
 
 **Keep them watching:** Say the name, then put "every two minutes" on screen as a ticking number.
 
@@ -148,6 +160,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Decide your reply speed on purpose, and tell people what it is." The dread comes from the unspoken obligation, not the message. Set an away message and put the phone in another room after hours.
 
+**Bring it home:** You cannot delete the pings, but you can give your brain steadier footing under them. Our founder, a neuroscientist, built Numin, a caffeine-free formula for focus without the jitters, and in a placebo-controlled trial it kept players sharp across a 13-hour session while placebo faded.
+
 **Keep them watching:** Lead with the name as the label for a feeling they know but never named.
 
 ---
@@ -171,6 +185,8 @@ All 31 topics below, original names and order.
 - Boomers: "Whatever happened to just going for a walk?"
 
 **The fix (CTA):** "Take the watch off for a week and rate your day by how you feel, not by your score." If the metric stresses you out, the metric is the problem. Keep one habit that helps, drop the three that just nag.
+
+**Bring it home:** If you are keeping one habit instead of ten, make it one that is actually tested. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, and ran it through a double-blind trial where the group on it sharpened over a 13-hour session while placebo slid.
 
 **Keep them watching:** Name the culture, then pivot to the clinic image and ask "how is that even possible."
 
@@ -196,6 +212,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Post the honest version and mute the accounts that make you compare." You do not have to quit the platform, just quit the performance. Drop the curation and watch the dread drop with it.
 
+**Bring it home:** Drop the performance, keep the focus. Our founder, a neuroscientist, built Numin, a caffeine-free formula for steady focus through a long day, shown in a placebo-controlled trial to hold performance over 13 hours while placebo declined.
+
 **Keep them watching:** Name the trap, then bait with "social media is bad for you, right? Wrong," and flip it.
 
 ---
@@ -219,6 +237,8 @@ All 31 topics below, original names and order.
 - Boomers: "Life got too loud and too complicated, all at once."
 
 **The fix (CTA):** "Change the inputs, not just your attitude." You cannot willpower your way out of a draining system, so cut the workload, the notifications, and the after-hours creep where you can, and protect recovery like it is the job.
+
+**Bring it home:** Changing the inputs includes what you put in. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue; in a placebo-controlled trial the group on it stayed sharp across a brutal 13-hour session while placebo faded. One honest input that helps.
 
 **Keep them watching:** Put "the WHO says it is the system, not you" on screen as the payoff card.
 
@@ -244,6 +264,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "When you feel too tired to decide, that is the signal to wait, not to tap yes." Build in a 24 hour rule for any purchase or sign-up that arrives when you are drained. Exhaustion is the moment to pause, not to commit.
 
+**Bring it home:** If everything is built to profit from your fatigue, the counter-move is refusing to be fatigued, which is the entire reason our founder, a neuroscientist, built Numin. In its double-blind, placebo-controlled trial, players on the caffeine-free formula actually sharpened over a 13-hour session, win rate climbing while the placebo group slid.
+
 **Keep them watching:** Use a real example mid-video (the buried cancel button) so people self-recognize.
 
 ---
@@ -267,6 +289,8 @@ All 31 topics below, original names and order.
 - Boomers: "47 kinds of toothpaste and I still leave with none."
 
 **The fix (CTA):** "Cap it at three options and set a timer." Pre-decide your criteria before you start browsing, then pick the best of three and move on. Less choosing, more living.
+
+**Bring it home:** Clarity comes easier when your brain is not running on empty. Our founder, a neuroscientist, built Numin, a caffeine-free formula for exactly that; in a placebo-controlled trial the group on it held sharp decision-making over 13 hours while placebo declined.
 
 **Keep them watching:** Name it, then visualize the 6 versus 24 jam tables side by side.
 
@@ -292,6 +316,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Set a hard stop and judge yourself on output, not hours." Past 50 hours you are donating time for free, so protect the cutoff and let the work be done when it is done. Rested beats wrecked at the same desk.
 
+**Bring it home:** Rested genuinely beats wrecked, and you do not need stimulants to get there. Our founder, a neuroscientist, built Numin, a caffeine-free formula that, in a placebo-controlled trial, kept the group on it performing across a 13-hour session while placebo faded.
+
 **Keep them watching:** State "70 equals 55" as a flat contradiction people will argue with in the comments.
 
 ---
@@ -315,6 +341,8 @@ All 31 topics below, original names and order.
 - Boomers: "That thing dings all day and all night."
 
 **The fix (CTA):** "Turn off every notification that is not a human who knows you, and leave the phone in another room for one focus block." Then catch the self-interruption: next time your hand reaches for the phone with no buzz, just notice it. Awareness is half the cure.
+
+**Bring it home:** Cut the pings, then give your focus backup. Our founder, a neuroscientist, built Numin, a caffeine-free formula for sustained focus; in a double-blind trial, players on it stayed precise and efficient over 13 hours while the placebo group got frantic.
 
 **Keep them watching:** Name the micro-tax up front, then tease that half the interruptions are self-inflicted before you reveal it.
 
@@ -340,6 +368,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Book one day off right now, before you finish this video." Schedule rest like a meeting you cannot move, and treat it as maintenance, not a reward you have to earn. The work will still be there. So will you, sharper.
 
+**Bring it home:** Recovery is not a reward you earn, and neither is showing up sharp. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold focus across a long day while placebo declined.
+
 **Keep them watching:** Name it, then let the word "die" land on "a third of your vacation days die every year."
 
 ---
@@ -363,6 +393,8 @@ All 31 topics below, original names and order.
 - Boomers: "Too many little things to keep track of. It all adds up."
 
 **The fix (CTA):** "Automate the tiny stuff so your brain saves itself for what matters." Same breakfast, set routines, default outfits, recurring orders. Every small choice you delete is attention you get back for the choices that count.
+
+**Bring it home:** Automating the small stuff saves your brain, and so does fueling it. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue; in a placebo-controlled trial the group on it stayed sharp over a 13-hour session while placebo faded.
 
 **Keep them watching:** Count tiny decisions out loud and fast, then cut to silence on "47 seconds."
 
@@ -388,6 +420,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Let the video start the conversation, not end it." If it resonates, book a real evaluation, and meanwhile fix the basics that mimic the symptoms, like sleep and structure. A clinician confirms, a feed cannot.
 
+**Bring it home:** Whatever the label turns out to be, focus is worth supporting in the meantime. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for everyday focus and decision fatigue. It is support, not a substitute for a real evaluation.
+
 **Keep them watching:** Set up the "everyone's faking it" expectation, then subvert it with the 1 in 3 stat.
 
 ---
@@ -411,6 +445,8 @@ All 31 topics below, original names and order.
 - Boomers: "Suddenly it is a condition when there is a deadline."
 
 **The fix (CTA):** "Before you reach for a chemical edge under pressure, audit the load first." Check sleep, workload, and recovery, because a brutal quarter can look exactly like a disorder. Fix what is situational, then evaluate what is not.
+
+**Bring it home:** If pressure is the real trigger, you can support your focus without reaching for a script. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharpness across a 13-hour grind while placebo declined.
 
 **Keep them watching:** Frame it as a pattern observation, "watch when this happens," so it reads as insight, not accusation.
 
@@ -436,6 +472,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Treat the vacation clue as a data point for a professional, not a verdict you hand yourself." Note when your focus is best and worst, bring that pattern to a clinician, and fix the environment either way.
 
+**Bring it home:** While you bring the pattern to a clinician, you can still support your day-to-day focus. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for decision fatigue. Support for the load, not a diagnosis.
+
 **Keep them watching:** Name the test, say "you have the answer backwards," then correct it.
 
 ---
@@ -459,6 +497,8 @@ All 31 topics below, original names and order.
 - Boomers: "You cannot get a real doctor but you can get pills online."
 
 **The fix (CTA):** "Choose continuity over convenience." Pick a provider who will still know your name in a year, not the 12 minute appointment that rubber stamps whatever you came for. Depth is the safety feature.
+
+**Bring it home:** We went the slow way. Our founder, a neuroscientist, put Numin through a published, double-blind, placebo-controlled trial, where the group on the caffeine-free formula sharpened over a 13-hour session while placebo declined. Depth over shortcuts, on the product too.
 
 **Keep them watching:** Open on the 40 million pills number, then zoom out to the bigger pattern.
 
@@ -484,6 +524,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Do not assume the people around you are chemically enhanced, and do not feel you have to match a myth." If you want a sharper afternoon, you can build clarity through sleep, fuel, and recovery, no prescription required.
 
+**Bring it home:** You do not need a prescription, or a double standard, to get an edge. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue; in a double-blind trial, players on it sharpened over 13 hours while placebo slid.
+
 **Keep them watching:** Split screen the pilot and the trader, same pill graphic between them.
 
 ---
@@ -507,6 +549,8 @@ All 31 topics below, original names and order.
 - Boomers: "People need a good night's sleep before they need a pill."
 
 **The fix (CTA):** "Fix the sleep first for two weeks, then see what is actually left." Lock a consistent schedule and a screen curfew before you draw any conclusions about your focus.
+
+**Bring it home:** Fix the sleep first, then if you want daytime support, our founder, a neuroscientist, built Numin, a caffeine-free formula for focus and decision fatigue, shown in a placebo-controlled trial to hold performance over a long session. Support, not a stimulant or a sleeping pill.
 
 **Keep them watching:** Use the "Monday versus Friday" line right after the name, explain the mechanism after.
 
@@ -532,6 +576,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Retrain the attention you trained away, starting with ten boring minutes a day." Sit with one task and no second screen, then stretch it. You can rebuild a focus the feed spent years dismantling.
 
+**Bring it home:** Retraining your focus is easier with backup. Our founder, a neuroscientist, built Numin, a caffeine-free formula for sustained attention; in a double-blind trial the group on it stayed precise over 13 hours while placebo got scattered.
+
 **Keep them watching:** Name the matchup, then bust the goldfish myth, because correcting a "fact" people repeat is instant retention.
 
 ---
@@ -555,6 +601,8 @@ All 31 topics below, original names and order.
 - Boomers: "No free lunch. You pay for it later."
 
 **The fix (CTA):** "If you are buying alertness, buy the kind that does not bill your future." Sleep, movement, and real fuel do most of the work, and none of it builds a dependency.
+
+**Bring it home:** If you want alertness that does not bill your future, that was the design brief. Our founder, a neuroscientist, built Numin, a caffeine-free formula with no stimulants, for decision fatigue; in a placebo-controlled trial, players on it sharpened over a 13-hour session while placebo faded.
 
 **Keep them watching:** Name it, then hit "not smarter, just awake," and back it with the study.
 
@@ -580,6 +628,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Use the label as a tool, not a cage." Take the strategies that help, find your community, and still expect more of yourself than four letters. You are the whole person, not the diagnosis.
 
+**Bring it home:** You are the whole person, not the label, and your focus is worth supporting either way. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for everyday focus and decision fatigue.
+
 **Keep them watching:** Name it, then drop "concept creep" as a term they have not heard and define it.
 
 ---
@@ -603,6 +653,8 @@ All 31 topics below, original names and order.
 - Boomers: "A label should not decide what someone can do."
 
 **The fix (CTA):** "Do not let the label lower your bar, and do not let it lower anyone else's." Ask for the support that raises performance, not the kind that quietly excuses you out of the game. Expect more, then give yourself the tools to deliver it.
+
+**Bring it home:** If you are capable of more than the label suggests, give yourself the tools to prove it. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharpness across a long day. Tools that raise the bar, not excuses that lower it.
 
 **Keep them watching:** Name the assumption, then reverse it hard with the research. The flip is the whole video.
 
@@ -628,6 +680,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Drop the ranking and support the person in front of you." Your hard thing is real without beating someone else's. Trade the leaderboard for solidarity, which is what the phrase was meant to do.
 
+**Bring it home:** Focus struggles are real for everyone, no ranking required, and everyone deserves support for them. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for everyday focus and decision fatigue.
+
 **Keep them watching:** Open with the origin twist. "The word means the opposite of how you use it" is pure curiosity gap.
 
 ---
@@ -651,6 +705,8 @@ All 31 topics below, original names and order.
 - Boomers: "Why does everyone broadcast their troubles?"
 
 **The fix (CTA):** "Train your feed back by following recovery, not just the breakdown." When you notice the bait, name it and scroll on. Post the part where it gets better, because that is the part worth spreading.
+
+**Bring it home:** Recovery is the part worth sharing, and the part worth supporting. Our founder, a neuroscientist, built Numin, a caffeine-free formula for focus and decision fatigue, shown in a placebo-controlled trial to hold performance over a 13-hour day while placebo declined.
 
 **Keep them watching:** Name it, then reveal the slot-machine mechanism behind outrage.
 
@@ -676,6 +732,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "If you want an edge, build the kind you do not have to lie to a doctor for." Sustainable focus comes from sleep, training, and clean fuel, not a borrowed script.
 
+**Bring it home:** If you want an edge you do not have to lie to a doctor for, that is literally the product. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for decision fatigue; in a double-blind trial, players on it sharpened over 13 hours while placebo slid.
+
 **Keep them watching:** Lead with the 55 percent stat. It is shocking enough to carry the open.
 
 ---
@@ -699,6 +757,8 @@ All 31 topics below, original names and order.
 - Boomers: "Everyone seems to have it now."
 
 **The fix (CTA):** "Before you believe the health hack, check who is teaching it." Awareness is great, but one viral clip is a prompt, not a diagnosis. Follow the credentialed sources and let the rest start conversations only.
+
+**Bring it home:** We would rather show our work than ride a trend. Our founder, a neuroscientist, put Numin through a published, double-blind, placebo-controlled trial, where the group on the caffeine-free formula sharpened over a 13-hour session while placebo declined.
 
 **Keep them watching:** Hook on the 7 billion to 28 billion jump, then hold the "best and worst at once" paradox.
 
@@ -724,6 +784,8 @@ All 31 topics below, original names and order.
 
 **The fix (CTA):** "Blame the feed, not the person, and extend grace by default." You cannot see anyone's full story from a 30 second clip, so resist the urge to call people out and aim the criticism at the platform that profits from it.
 
+**Bring it home:** Grace for people, support for real focus. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for everyday focus and decision fatigue.
+
 **Keep them watching:** Only run this if the entire piece blames the platform. The second it points at a person, it backfires.
 
 ---
@@ -747,5 +809,7 @@ All 31 topics below, original names and order.
 - Boomers: "Making the excuse before you give it a real try."
 
 **The fix (CTA):** "Catch the excuse you make before you start, name it, then start anyway." The pre-excuse is the tell. Strip it out and you find out what you can actually do, which is usually more than the story said.
+
+**Bring it home:** Owning the gap is step one; giving yourself tools to close it is step two. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharpness across a long day. Fewer excuses, more support.
 
 **Keep them watching:** Open with the relatable phrases everyone says, then name the behavior they did not know had a name.
