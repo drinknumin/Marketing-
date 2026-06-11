@@ -4,7 +4,12 @@
 
 **Two halves:** Part A is the core behavioral mechanisms, the validated science of how your brain gets played. Part B is the newest 2023 to 2026 findings. Hooks lead with the concept name where it helps, because naming something people feel but cannot label is strong retention bait. No em dashes, every number sourced so creators hold up under a fact check.
 
-**Product bridge (read once):** Most topics end with an optional **Bring it home** line that transitions to the product. It draws on Numin's own published study, a double-blind, randomized, placebo-controlled trial in Frontiers in Nutrition (2025): across a 13-hour session, the group on the caffeine-free formula improved their win rate and stayed more precise and efficient while the placebo group declined ([study](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1680030/full)). Numin's founder is a neuroscientist. Keep spoken claims to focus and decision-making support, and add once per caption: "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease."
+**How to transition to the product (read once, then improvise):** Each topic ends with a **Bring it home** direction block, not a script, on purpose. The fastest way to look like an ad is to read the same product paragraph into every video, so do not. Land the topic's point first, then hinge to the product in your own words. The moves:
+- **The transition:** finish the topic's own logic, then pivot to "here is the part you can control" or "here is what helps." Each topic notes its specific hinge.
+- **Name it, but vary it every time:** the true facts you can draw from are that our founder is a neuroscientist, we built Numin, it is caffeine-free, and it is made for decision fatigue. Pick one angle per video, never the same phrasing twice.
+- **Product in hand:** natural on focus, energy, decision, and crash topics (a sip on the pivot reads well). Keep it out of frame on the sensitive topics, and never hold it while criticizing processed products.
+- **Study in the background:** when you reference it, show it as an on-screen citation card or B-roll of the paper (Frontiers in Nutrition, 2025), do not recite numbers. The honest, sayable result: over a 13-hour session the group on the formula sharpened and stayed more precise while the placebo group declined. Only use it on topics where it is actually relevant (focus, decision, crash), not on plastics or food.
+- **Rails (always):** focus and decision-making support, not treatment. Never "cures," "fixes," or "43 percent." Add once per caption: "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease."
 
 ---
 
@@ -34,7 +39,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "Add friction to the wanting, not guilt to the liking. Log out, take the app off your home screen, leave the phone in another room." You are not weak, you are up against your own seeking system, so make the chase harder. The craving fades when the cue is gone.
 
-**Bring it home:** If the apps hijack your wanting system, the move is to give your focus something steadier. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue with no dopamine slot machine attached. In its placebo-controlled trial, the group on it stayed sharp across a 13-hour session while placebo slid.
+**Bring it home (direction, not a script):**
+- *Transition:* from "apps hijack your wanting system" to giving your focus something steadier that is not a reward loop.
+- *Options:* founder angle, or the "no dopamine slot machine attached" contrast.
+- *On camera:* product in hand fine; study card optional.
 
 **Keep them watching:** Open with "everything you heard about dopamine is wrong," then make them wait for the wanting versus liking reveal.
 
@@ -60,7 +68,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "When a claim feels obviously true but you cannot say where you learned it, treat that as a warning, not proof." Trace it to a source before you repeat it. Familiar is not the same as verified.
 
-**Bring it home:** Catching a repeated lie takes a clear, un-fried head. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharp thinking across a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* from "spotting a repeated lie" to "a clear, un-fried head makes that easier."
+- *Options:* light name-drop as focus support, or skip the product on this one.
+- *On camera:* product optional and minimal; skip the study.
 
 **Keep them watching:** Name the effect, then hit the unsettling part: it works even when you know the truth.
 
@@ -86,7 +97,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "Before you decide, ask what number or image you saw right before, and set your own anchor first." Name the anchor and it loses its pull. Decide on the facts, not the framing you were handed.
 
-**Bring it home:** Catching the setup before it tilts you is easier when you are not depleted. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue; in a placebo-controlled trial the group on it held sharp judgment over 13 hours while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* from "catch the setup before it tilts you" to "easier when you are not depleted."
+- *Options:* light name-drop, or skip the product here.
+- *On camera:* product optional; skip the study.
 
 **Keep them watching:** Hook on "the first number is a trap," then prove it with the menu or salary example.
 
@@ -112,7 +126,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "Before you call something good, ask whether it is actually good or just familiar." Try the new option on its merits. Comfort is not the same as quality.
 
-**Bring it home:** Telling good from merely familiar is a decision, and decisions get worse as you wear down. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to keep the group on it sharp across a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* from "telling good from merely familiar is a decision" to "and decisions degrade as you wear down."
+- *Options:* light name-drop as decision-fatigue support; a little self-aware humor that you are a brand asking to be judged on merits works well.
+- *On camera:* product optional; study light.
 
 **Keep them watching:** Hook with "you like things for a reason you cannot see," then reveal the subliminal twist.
 
@@ -138,7 +155,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "Treat your feed like an emotional diet and unfollow the accounts that reliably wreck your mood." You catch what you consume, so curate the climate. When you feel the vibe shift, put it down.
 
-**Bring it home:** You cannot fully control the emotional climate of your feed, but you can steady the brain meeting it. Our founder, a neuroscientist, built Numin, a caffeine-free formula for focus without the jitters, shown in a placebo-controlled trial to hold performance over a 13-hour session while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* from "you cannot fully control the feed's climate" to "you can steady the brain meeting it."
+- *Options:* frame as caffeine-free focus without the jitters; do not frame as a mood or anxiety treatment.
+- *On camera:* product optional; study light; keep the claim to focus.
 
 **Keep them watching:** Open on "they tested it on 689,003 people," then land the consent kicker.
 
@@ -164,7 +184,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "When you are under strain, cut the number of decisions and offload everything you can to lists and autopay." You are not failing, your bandwidth is taxed, so shrink the load on it and protect your thinking for what matters.
 
-**Bring it home:** You cannot always lower the stress taxing you, but you can protect the bandwidth that is left, which is exactly what our founder, a neuroscientist, built Numin for. In a double-blind, placebo-controlled trial, players on the caffeine-free formula sharpened over a 13-hour session, win rate climbing, while placebo slid.
+**Bring it home (direction, not a script):**
+- *Transition:* from "you cannot always lower the stress, but you can protect the bandwidth that is left" to the product's reason for existing. Strong fit.
+- *Options:* founder angle, or lead with the trial result.
+- *On camera:* product in hand; study as the proof card.
 
 **Keep them watching:** Hook with "stress lowers your IQ in real time," then reveal the 13 point number.
 
@@ -190,7 +213,10 @@ How your brain actually works, and how that gets used on you.
 
 **The fix (CTA):** "When your hand reaches for the phone with no notification, just notice it and put it back. That is the self-interruption you can actually control." Stack one 20 minute single-task block a day and grow it. You can retrain the focus you trained away.
 
-**Bring it home:** Rebuilding attention takes reps and a brain that can hold a thread. Our founder, a neuroscientist, built Numin, a caffeine-free formula for sustained focus; in a double-blind trial the group on it stayed precise and efficient over 13 hours while the placebo group got frantic.
+**Bring it home (direction, not a script):**
+- *Transition:* from "rebuild attention with reps" to "and a brain that can hold a thread." Strong fit.
+- *Options:* sustained-focus or precision angle; founder angle.
+- *On camera:* product in hand; the precision-and-efficiency result makes a clean study card.
 
 **Keep them watching:** Hook on the 47 seconds, then twist to "half of it is you."
 
@@ -222,7 +248,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Let AI draft, but make yourself rewrite the key part from memory before you use it." Offload the busywork, keep the thinking. The struggle is where the learning actually sticks.
 
-**Bring it home:** If you are going to keep doing your own thinking, give it real fuel. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharp performance across a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* from "if you are going to keep doing your own thinking" to "give it real fuel."
+- *Options:* founder angle; keep it light, this is a focus-support tie not a fix for AI.
+- *On camera:* product optional; light study card.
 
 **Keep them watching:** Open on "they could not quote their own essay," then explain the EEG result.
 
@@ -248,7 +277,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Put the first and last 30 minutes of the day phone-free, especially for teens." You cannot un-tune the loop overnight, but you can stop feeding it on a schedule. Protect the moments that set the tone for the day.
 
-**Bring it home:** You cannot fully untune the approval loop, but you can give your focus steadier footing. Our founder, a neuroscientist, built Numin, a caffeine-free, non-prescription formula for everyday focus and decision fatigue.
+**Bring it home (direction, not a script):**
+- *Transition:* this is a teen-brain topic, so go very soft. From "you cannot fully untune the loop" to "steadier footing for your own focus."
+- *Options:* non-prescription support framing only; this is not a product for kids, keep it adult-focused or skip.
+- *On camera:* no product in hand, no study; keep it careful.
 
 **Keep them watching:** Hook on "their brains changed over three years," and keep the adaptive-not-damage caveat as the credibility beat.
 
@@ -274,7 +306,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Set a hard cap on news, and never scroll it first thing or last thing in the day." Your radar is not broken, it is being exploited, so put a fence around it. Trade the doom feed for one trusted daily check.
 
-**Bring it home:** Fence off the doom, then give the brain underneath it steadier focus. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharpness over a 13-hour session while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* from "fence off the doom" to "give the brain underneath it steadier focus."
+- *Options:* founder angle; light.
+- *On camera:* product optional; study light.
 
 **Keep them watching:** Hook on "your brain craves bad news," then reveal the evolutionary reason.
 
@@ -300,7 +335,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "You cannot detox plastic, so cut the intake: filter your tap water and stop microwaving food in plastic." Reduce what you can control and ignore the panic-detox products. Lowering exposure beats chasing a cleanse that does not exist.
 
-**Bring it home:** Plenty of what wears on your brain, plastics included, is out of your hands. The part you can act on is everyday support, which is why our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue. You cannot control the plastic, but you can support a sharper afternoon.
+**Bring it home (direction, not a script):**
+- *Transition:* the only honest hinge is "control what you can." Do not claim the product does anything about plastic. Pivot to everyday focus as a thing you can control.
+- *Options:* keep the product mention very light, or skip it; never imply it removes or offsets plastic.
+- *On camera:* no product in hand, and do not put the focus study on a plastics video, it is off-topic and looks like a stretch.
 
 **Keep them watching:** Hook on the spoon, then earn trust with "but scientists are fighting about it" before the takeaway.
 
@@ -326,7 +364,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Swap one ultra-processed meal a day for something you could recognize as food a century ago." You do not need a perfect diet, just less of the stuff with a 30-item ingredient list. Small swaps, repeated, move the needle.
 
-**Bring it home:** If the inputs to your brain matter, choose them on purpose. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, tested in a placebo-controlled trial where the group on it held sharp performance across a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* careful, we are a formulated product, so this one can backfire. Do not pretend Numin is whole food. If you mention it, be transparent about ingredient quality and short labels, do not bash processing and then hold a powder.
+- *Options:* honestly, the safest move is to skip the product here, or address the irony head-on.
+- *On camera:* do NOT hold the product while criticizing processed food; no study.
 
 **Keep them watching:** Lead with the 10-million-person stat, then the honest "but we cannot prove cause" beat.
 
@@ -352,7 +393,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Get your heart rate up for 20 minutes today, and call it brain maintenance, not just fitness." You do not need a gym, you need intensity and consistency. The effect on mood starts the same day.
 
-**Bring it home:** Movement does the heavy lifting; pair it with focus support for the long days. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold sharpness over a 13-hour session while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* movement is the hero here, so position the product as a pairing for the long days, not a replacement for exercise.
+- *Options:* keep it humble and light; do not let the product upstage the free thing that works.
+- *On camera:* product optional and secondary; study light.
 
 **Keep them watching:** Hook on "it beat the medications by 1.5 times," then explain BDNF simply.
 
@@ -378,7 +422,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Feed the gut the boring way that actually has evidence: fiber, fermented foods, and less ultra-processed junk." Skip the miracle psychobiotic claims until the human trials catch up. Real food beats a hopeful powder.
 
-**Bring it home:** We skipped the miracle-gut-powder hype and went evidence-first. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, and put it through a published, placebo-controlled trial where the group on it sharpened over a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* this topic mocks supplement overclaiming, so the only credible move is the transparency angle: we skipped the hype and ran a real trial. Do not make any gut or mood claim.
+- *Options:* lead with evidence-first and the published trial; keep claims to focus and decision-making only.
+- *On camera:* product optional; the study on screen fits the transparency angle.
 
 **Keep them watching:** Hook on "most of your serotonin is made in your gut," then the honest "the supplements oversell it" turn.
 
@@ -404,7 +451,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Do not overthink the mechanism, just protect the hours: consistent schedule, cool dark room, no screens at the end." The why is debated, the need is not. Guard sleep like the non-negotiable it is.
 
-**Bring it home:** Sleep does its work at night however the mechanism shakes out; for the daytime load, our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to hold focus over a 13-hour session while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* sleep is the hero, so do not pitch a daytime product as a sleep fix. Hinge to "for the daytime load" only.
+- *Options:* light; keep the product as daytime focus support, clearly not a sleep aid.
+- *On camera:* product optional; no study needed, different topic.
 
 **Keep them watching:** Hook on "the thing you have repeated for a decade just got flipped," then stage the 2013 versus 2024 fight.
 
@@ -430,7 +480,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Feed the new-neuron process with what supports it: aerobic exercise, learning hard new skills, and real sleep." Your brain is still building, so give it materials and a reason. Novelty and movement are the fuel.
 
-**Bring it home:** Your brain keeps building, and you support that with sleep, exercise, and steady focus to actually use it. For the focus part, our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, tested in a placebo-controlled trial where the group on it stayed sharp across a 13-hour session while placebo declined.
+**Bring it home (direction, not a script):**
+- *Transition:* do NOT claim the product grows neurons. Hinge from "support the building with sleep, exercise, and learning" to the product covering the daytime focus piece only.
+- *Options:* keep it modest, focus support; the heroes here are sleep, exercise, and novelty.
+- *On camera:* product optional; do not attach the focus study to a neurogenesis claim.
 
 **Keep them watching:** Hook on "everything you were taught about fixed brain cells was wrong," then the 2025 reveal.
 
@@ -456,7 +509,10 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "Cut off caffeine by early afternoon and hydrate, because the crash is backed-up tiredness, not a missing dose." Front-load it, then let your body settle the bill before bed. Better sleep tonight means less crash tomorrow.
 
-**Bring it home:** This borrow-now-crash-later trade is the exact reason our founder, a neuroscientist, built Numin caffeine-free. No adenosine wall, no afternoon collapse. In a double-blind, placebo-controlled trial, players on the formula sharpened over a 13-hour session while the placebo group slid.
+**Bring it home (direction, not a script):**
+- *Transition:* this is your single best product moment. From "the borrow-now-crash-later trade" to "this is exactly why we built it caffeine-free." No adenosine wall, no afternoon collapse.
+- *Options:* lead with caffeine-free by design; founder angle; the trial result fits cleanly.
+- *On camera:* product in hand; study as the proof card. Strongest topic in the doc for product.
 
 **Keep them watching:** Hook on "caffeine does not give you energy," then explain the adenosine wall.
 
@@ -482,6 +538,9 @@ The freshest findings, the kind that make a smart viewer stop scrolling. Several
 
 **The fix (CTA):** "When you catch your mind spiraling, name what you are actually doing right now and return to it." You cannot stop wandering, but you can shorten the worry loops. A few minutes of real presence resets the mood more than the activity does.
 
-**Bring it home:** Presence is a skill, and it is easier to hold when your focus is not fried. Our founder, a neuroscientist, built Numin, a caffeine-free formula for decision fatigue, shown in a placebo-controlled trial to keep the group on it sharp across a 13-hour session while placebo faded.
+**Bring it home (direction, not a script):**
+- *Transition:* from "presence is a skill" to "easier to hold when your focus is not fried."
+- *Options:* light name-drop as focus support; do not claim it makes you present or happy.
+- *On camera:* product optional; study light.
 
 **Keep them watching:** Hook on the 47 percent, then the honest "it depends where you wander" turn.
