@@ -25,12 +25,29 @@ offer/mechanism so the team can decide what to test first. Focus here is
 | **Baseline** (today's generic pop-up) | Email for newsletter/generic | **2.7%** (actual) | ~350 | Low–med | Live |
 | **Offer 1 — Discount pop-up** | Email unlocks the discount code | **5–7%** | ~650–910 | Med–high (deal-seekers, but converted before) | Low — proven, fast |
 | **Offer 3 — Gift-with-purchase** | Email unlocks the free gift | **3–5%** | ~390–650 | Med | Low — needs gift inventory |
-| **Offer 2 — $1 trial** | Trial start (email **+ card**) | **3–6%** | ~390–780 (all customers) | Highest intent | Med — billing/compliance setup |
+| **Offer 2 — $1 trial** | Email unlocks the $1 deal | **20–33%** (observed 33%) | ~2,600–4,300 | High intent (see funnel note) | Med — billing/compliance |
 | **Quiz — Decision Profile** | Email gates the result + toolkit | **5–10%** | ~650–1,300 | Med (toolkit-seekers; brand-aligned) | High — custom build |
 
-> ⚠️ Every rate above except the baseline is a **benchmark-based estimate, not a
-> measured result.** They're hypotheses to validate by test. Ranges reflect that
-> uncertainty; treat the low end as the conservative planning number.
+> ⚠️ Rates are **benchmark-based estimates to validate by test — except the $1
+> trial, which is anchored to a real result** (a prior, simpler $1 deal hit
+> **33%** pop-up opt-in). Treat the low end of each range as the conservative
+> planning number.
+
+---
+
+## Read the $1 trial as a funnel, not one number
+"Opt-in" isn't the same action for a free pop-up and a $1 offer. The $1 trial has
+**three steps**, and only the first is the opt-in:
+1. **Pop-up email opt-in** — drop an email to claim the $1 deal. Lowest-friction
+   action there is — this is the **20–33%** (~2,600–4,300/mo).
+2. **Paid trial start** — put a card down and pay the $1. A subset of step 1.
+3. **Retained subscriber** — convert at day 21 and stay. A subset of step 2 —
+   where refunds, chargebacks, and the day-21 conversion live (see
+   `numin-offers-and-economics.md`).
+
+Offers 1/3 and the quiz only have step 1, so the $1 trial **wins opt-in by a wide
+margin** — but its real value is decided in steps 2–3. It can flood the list and
+still lose money if the back end leaks.
 
 ---
 
@@ -49,13 +66,15 @@ a discount but above a generic ask — ~3–5%**. Main appeal is that it capture
 emails **without discount-training** the customer. Reasonable as a brand-safe
 alternative to Offer 1, or an A/B against it.
 
-**Offer 2 — $1 trial.** Different axis: the "opt-in" here is a **trial start,
-which captures email *and* a card on file** — so it's a purchase action, not a
-free email. Fewer pure emails than a free pop-up could get, but **every capture
-is a (tentative) customer**, i.e. the highest-intent list of the five. A $1 hook
-should lift site conversion well above today's 1.24%, so **~3–6% of visitors**
-starting a trial is plausible. Note: you can still run a free email pop-up
-*alongside* it to catch non-buyers.
+**Offer 2 — $1 trial.** The opt-in **winner by a wide margin.** A prior, simpler
+$1 deal ($1 now → charged at day 30, no day-21 step) hit **33% pop-up opt-in** and
+produced a flood of emails. "$1 for the product" is a stronger hook than "X% off"
+or "find your type," so it sits well above the others. The newer structure
+(charged at day 21 if not returned, refill day 30) has more complex terms to
+disclose, which likely shaves opt-in a bit — **~20% is a reasonable planning
+number against the observed 33%** (~2,600–4,300/mo). The caution isn't opt-in;
+it's everything downstream of it (trial start → day-21 conversion → retention,
+plus refunds/chargebacks) — see the economics doc.
 
 **Quiz — Decision Profile.** Highest **ceiling** and best brand fit (it owns the
 "decision fatigue" territory). Quiz pop-ups commonly capture **2–4× a static
@@ -70,18 +89,25 @@ sensitive to execution and the least proven for us.
 
 ## Suggested test sequence (for discussion)
 
-1. **Offer 1 (discount pop-up) first** — proven ~6%, lowest build, fastest way to
-   refill the list while everything else is built. Restores ~+300–560 emails/mo.
-2. **Quiz in parallel** — highest ceiling and on-brand; longer build, so start it
-   now and test once live. Watch completion rate closely.
-3. **Offer 2 ($1 trial)** — test as its own acquisition play (captures customers,
-   not just emails); judge on the economics doc, not opt-in alone.
-4. **Offer 3 (GWP)** — hold as the brand-safe A/B against Offer 1 if
-   discount-training the customer is a concern.
+1. **$1 trial — highest opt-in, already proven (~33%).** If raw email volume is
+   the goal, nothing else is close (~2,600–4,300/mo). Green-light rests on the
+   downstream economics (day-21 conversion + retention + refunds), **not** opt-in
+   — pair with the economics doc before scaling.
+2. **Offer 1 (discount pop-up) — the safe, simple workhorse.** Proven ~6%, lowest
+   build, profitable on the first order. Good steady-state default, and the
+   fallback if the $1 trial's back end doesn't pencil.
+3. **Quiz — highest brand fit, biggest build.** Strong opt-in ceiling and owns the
+   decision-fatigue territory; longer to build, rate hinges on completion. Start
+   now, test once live.
+4. **Offer 3 (GWP)** — brand-safe A/B against Offer 1 if discount-training the
+   customer is a concern.
 
 ## How we'll measure
 - Primary: **opt-in rate vs. 2.7%** and **emails/mo vs. ~350** (target ~6%+, ~780+/mo).
 - Per-mechanism: completion/drop-off (quiz especially), and cost per email.
+- **$1 trial specifically:** track all three funnel steps — email opt-in → paid
+  trial start → retained subscriber — not just opt-in, or you'll mistake a flood
+  of emails for a flood of customers.
 - Downstream (ties to `numin-offers-and-economics.md`): what each email cohort is
   worth — purchase rate, CAC, and retention — since a high opt-in that doesn't
   convert is worth less than a smaller, higher-intent one.
