@@ -37,6 +37,18 @@ list before.**
 | Pays back on the first order? | **Yes**, at a reasonable CAC |
 | Risk | **Low** |
 
+**At the CAC levels we've actually seen:**
+
+| CAC | Payback period | LTV:CAC (~4-mo retention) |
+|---|---|---|
+| **$50** — target with a stronger offer/site | **~2 months** | **~2.1×** |
+| **$100** — the high end we've hit | **~4 months** | **~1.0× (break-even)** |
+
+*Payback = months of contribution to recover CAC (first order +$22, each refill +$27).*
+So at $50 it pays back fast and earns ~2× over a typical customer life; at $100 it
+only breaks even right around our ~4-month retention — which is why pulling CAC down
+(stronger offer + better site) is the lever.
+
 **Why it works now:** at 90% COGS the discounted first order made about $0; at 50%
 COGS it makes **+$22**. Same offer — now profitable from order one.
 
@@ -50,27 +62,28 @@ Customer pays **$1 today** and gets the product. If they don't cancel, they're
 **charged the full price at day 21**; their **first refill ships at day 30**, then
 monthly after that.
 
-| | |
-|---|---|
-| Opt-in | ~20–33% (we saw **33%** on a simpler version) → **~2,600–4,300 emails/mo** |
-| First order | **~$3–6 contribution** (thin) |
-| Pays back on the first order? | **No — this is a bet on refills** |
-| Risk | **High** |
+**The upside — this is where it gets exciting.**
+- **By far our biggest list-builder:** ~20–33% opt-in (we saw **33%**) →
+  **~2,600–4,300 new emails/mo, roughly 7× today.**
+- Every customer who makes it past day 21 becomes a **full-price subscriber worth
+  ~$27/month** in contribution — and it compounds the longer they stay:
 
-**The upside:** by far our biggest list-builder — roughly **7× our current email
-volume.**
+| A converted customer who stays… | 4 months | 6 months | 12 months |
+|---|---|---|---|
+| Lifetime contribution | **$108** | **$162** | **$324** |
 
-**The risk, on a first-order basis:**
-- We're profitable on the first order only if **about half of trial-starts convert
-  at day 21** (break-even is ~49% conversion). At a healthy 55%, the first order
-  throws off only **~$3**.
-- So the first order **does not pay back the cost of acquiring the customer** — the
-  return depends entirely on customers staying for refills (orders 2+).
-- Every customer who takes the $1 and leaves costs us **~$26** (product shipped),
-  plus whatever we paid to acquire them.
-- The day-21 charge is the classic trigger for **chargebacks**. We must keep these
-  under ~1% — clear disclosure up front, a reminder before the charge, and
-  one-click cancel — or we risk our payment processing.
+- **At scale it adds up fast.** One month's cohort of ~780 converted subscribers
+  (≈60% of ~1,300 trial starts) is worth **~$125K in lifetime contribution** at a
+  6-month average life.
+- And because "$1" converts traffic so well, our **cost per subscriber drops** — at
+  a ~$40–50 effective CAC and a 6-month life, that's a **~3–4× return (LTV:CAC).**
+
+**The catch — what has to be true.** The first order alone is thin (**~$3–6**), so
+the return lives entirely in the refills. We need **day-21 conversion of at least
+~49%** just to break even on the first order (healthy ≥55%), customers to **stay for
+refills**, and **chargebacks under 1%** (clear disclosure up front, a reminder before
+the day-21 charge, easy cancel). Every $1-and-leave customer costs us ~$26 plus
+acquisition.
 
 > **Why we can consider it now:** at 90% COGS we'd have needed ~90% of trials to
 > convert at day 21 just to break even on the first order (impossible). At 50%
@@ -87,6 +100,10 @@ volume.**
 | Pays back on order 1 | Yes (reasonable CAC) | No — refill bet |
 | Risk | **Low** | **High** |
 | Best for | Steady, profitable list growth | Aggressive volume |
+
+*Both deliver the same **~$162 lifetime contribution per retained subscriber**
+(6-month life) — Try One Dollar simply brings in far more of them, faster, at
+higher risk.*
 
 ---
 
@@ -117,5 +134,9 @@ volume.**
   version, planned conservatively here at 20%.
 - Try One Dollar's first-order math assumes returned product can't be resold
   (conservative) and ~55% day-21 conversion (unproven — confirm from last campaign).
+- Offer 1 payback uses first order +$22, each refill +$27, ~4-month retention
+  (~$103 lifetime contribution); CAC $50 (target) and $100 (high end we've seen).
+- Try One Dollar's **upside case** uses ~60% day-21 conversion, ~6-month retention,
+  and a ~$40–50 effective cost per subscriber — optimistic but plausible, not a floor.
 - **"First-order basis"** deliberately ignores future refills — it shows the risk
   *before* we bet on retention. Refills are the upside, not the plan.
