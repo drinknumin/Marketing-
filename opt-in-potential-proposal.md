@@ -25,12 +25,12 @@ offer/mechanism so the team can decide what to test first. Focus here is
 | **Baseline** (today's generic pop-up) | Email for newsletter/generic | **2.7%** (actual) | ~350 | Low–med | Live |
 | **Offer 1 — Discount pop-up** | Email unlocks the discount code | **5–7%** | ~650–910 | Med–high (deal-seekers, but converted before) | Low — proven, fast |
 | **Offer 3 — Gift-with-purchase** | Email unlocks the free gift | **3–5%** | ~390–650 | Med | Low — needs gift inventory |
-| **Offer 2 — $1 trial** | Email unlocks the $1 deal | **20–33%** (observed 33%) | ~2,600–4,300 | High intent (see funnel note) | Med — billing/compliance |
+| **Offer 2 — $1 trial** | Email unlocks the $1 deal | **20–33%** (benchmark: ~33% elsewhere) | ~2,600–4,300 | High intent (see funnel note) | Med — billing/compliance |
 | **Quiz — Decision Profile** | Email gates the result + toolkit | **5–10%** | ~650–1,300 | Med (toolkit-seekers; brand-aligned) | High — custom build |
 
-> ⚠️ Rates are **benchmark-based estimates to validate by test — except the $1
-> trial, which is anchored to a real result** (a prior, simpler $1 deal hit
-> **33%** pop-up opt-in). Treat the low end of each range as the conservative
+> ⚠️ Rates are **benchmark-based estimates to validate by test.** The $1 trial's
+> **~33%** is anchored to a real result from a comparable $1 deal at another brand
+> (not yet run at Numin). Treat the low end of each range as the conservative
 > planning number.
 
 ---
@@ -66,15 +66,16 @@ a discount but above a generic ask — ~3–5%**. Main appeal is that it capture
 emails **without discount-training** the customer. Reasonable as a brand-safe
 alternative to Offer 1, or an A/B against it.
 
-**Offer 2 — $1 trial.** The opt-in **winner by a wide margin.** A prior, simpler
-$1 deal ($1 now → charged at day 30, no day-21 step) hit **33% pop-up opt-in** and
-produced a flood of emails. "$1 for the product" is a stronger hook than "X% off"
-or "find your type," so it sits well above the others. The newer structure
-(charged at day 21 if not returned, refill day 30) has more complex terms to
-disclose, which likely shaves opt-in a bit — **~20% is a reasonable planning
-number against the observed 33%** (~2,600–4,300/mo). The caution isn't opt-in;
-it's everything downstream of it (trial start → day-21 conversion → retention,
-plus refunds/chargebacks) — see the economics doc.
+**Offer 2 — $1 trial.** The opt-in **winner by a wide margin** — though **new to
+Numin**. A comparable, simpler $1 deal run at another brand ($1 now → charged at
+day 30, no day-21 step) hit **~33% pop-up opt-in** and produced a flood of emails.
+"$1 for the product" is a stronger hook than "X% off" or "find your type," so it
+sits well above the others. Our proposed structure (charged at day 21 if not
+returned, refill day 30) has more complex terms to disclose, which likely shaves
+opt-in a bit — **~20% is a reasonable planning number against that ~33%
+benchmark** (~2,600–4,300/mo). The caution isn't opt-in; it's everything
+downstream of it (trial start → day-21 conversion → retention, plus
+refunds/chargebacks) — see the economics doc.
 
 **Quiz — Decision Profile.** Highest **ceiling** and best brand fit (it owns the
 "decision fatigue" territory). Quiz pop-ups commonly capture **2–4× a static
@@ -89,7 +90,7 @@ sensitive to execution and the least proven for us.
 
 ## Suggested test sequence (for discussion)
 
-1. **$1 trial — highest opt-in, already proven (~33%).** If raw email volume is
+1. **$1 trial — highest opt-in by far (~33% benchmark elsewhere; new to Numin).** If raw email volume is
    the goal, nothing else is close (~2,600–4,300/mo). Green-light rests on the
    downstream economics (day-21 conversion + retention + refunds), **not** opt-in
    — pair with the economics doc before scaling.

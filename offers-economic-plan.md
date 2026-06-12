@@ -6,8 +6,8 @@
 ## Why now
 Our cost of goods has dropped from **~90% to ~50%** of the subscription price.
 That one change makes two acquisition offers viable that didn't pencil before —
-one we've run successfully (an email-gated discount) and one we recently tested
-that drove huge email volume (**Try One Dollar**).
+one we've run successfully here (an email-gated discount) and one proven at a
+comparable brand that drove very high email volume (**Try One Dollar** — new to us).
 
 At the same time, email capture has fallen since the site + price change —
 **opt-in 6.2% → 2.7%**, and **~750 → ~350** new emails/month — so we need a
@@ -63,7 +63,7 @@ Customer pays **$1 today** and gets the product. If they don't cancel, they're
 monthly after that.
 
 **The upside — this is where it gets exciting.**
-- **By far our biggest list-builder:** ~20–33% opt-in (we saw **33%**) →
+- **By far our biggest list-builder:** ~20–33% opt-in (a comparable $1 trial reached **33%**) →
   **~2,600–4,300 new emails/mo, roughly 7× today.**
 - Every customer who makes it past day 21 becomes a **full-price subscriber worth
   ~$27/month** in contribution — and it compounds the longer they stay:
@@ -122,18 +122,19 @@ higher risk.*
    rebuilds the list we've lost.
 2. **Test Try One Dollar on a portion of traffic** with the guardrails above. Scale
    only if day-21 conversion and reorder rates clear the bar.
-3. **Pull the numbers from our last $1 campaign** — day-21 conversion, reorder
-   rate, chargebacks — and replace the estimates here with our actual results
-   before scaling.
+3. **We haven't run this at Numin — treat the first run as a measured test.**
+   Instrument day-21 conversion, reorder rate, and chargebacks from day one and
+   validate against the benchmark before scaling.
 
 ---
 
 ## Assumptions & notes
 - $54 sub, ~50% COGS, ~13K visitors/mo, ~4-month retention — to be confirmed.
-- Opt-in: Comeback proven at ~6.2%; Try One Dollar observed at 33% on a simpler
-  version, planned conservatively here at 20%.
+- Opt-in: Comeback proven at ~6.2% (at Numin); Try One Dollar is new to Numin —
+  the ~33% is a benchmark from a comparable $1 trial at another brand, planned
+  conservatively here at 20%.
 - Try One Dollar's first-order math assumes returned product can't be resold
-  (conservative) and ~55% day-21 conversion (unproven — confirm from last campaign).
+  (conservative) and ~55% day-21 conversion (a benchmark, unproven at Numin — confirm with a test).
 - Offer 1 payback uses first order +$22, each refill +$27, ~4-month retention
   (~$103 lifetime contribution); CAC $50 (target) and $100 (high end we've seen).
 - Try One Dollar's **upside case** uses ~60% day-21 conversion, ~6-month retention,
