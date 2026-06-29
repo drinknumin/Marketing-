@@ -12,6 +12,13 @@ legal must-haves. The last section is a copy-paste prompt for Claude Design.
 sample box. If you don't cancel, your monthly plan starts in 2 weeks at $54/month
 (20-count box).
 
+**Two ways to buy (shown as a plan selector on the product page):**
+1. **One-time — $54** for a 20-count box, bought "as is." No subscription, no trial,
+   no recurring charge. Always directly buyable, no unlock needed.
+2. **The $5 Starter** — the gated, low-commitment way to try (the mechanics below).
+Only the $5 Starter is gated behind the email + phone unlock. The one-time box is a
+plain sale.
+
 **The deal is gated.** The only way to get the $5 price is to enter an email and phone
 number in the pop-up. That unlock is the trade: we give the cheap sample, they join our
 email and text lists. The phone number matters — the day-11 text reminder is what keeps
@@ -38,9 +45,10 @@ the day-14 charge from feeling like a surprise.
 
 ## 2. The legal must-haves (design these IN — do not bury them)
 
-We charge automatically at day 14 and we collect a phone number for texts, so two sets of
-rules apply: the FTC subscription rules and the texting rules (TCPA). Both protect us from
-chargebacks and complaints. **Not optional:**
+The **$5 Starter** charges automatically at day 14 and collects a phone number for texts,
+so two sets of rules apply: the FTC subscription rules and the texting rules (TCPA). (The
+one-time $54 box is a plain sale — none of this applies to it.) Both protect us from
+chargebacks and complaints. **Not optional for the $5 Starter:**
 
 1. **Clear terms before payment** — the $5 now, the exact date and amount of the day-14
    charge ($54), the recurring $54/month, and how to cancel. Plain words.
@@ -66,7 +74,8 @@ can switch it off instantly.
 ## 4. The three screens to design
 
 ### A. The pop-up (Alia style)
-This is the gate and the first thing they see. Model it on the Alia pop-up we already use.
+This is the gate for the $5 Starter (the one-time $54 box doesn't need it) and the first
+thing they see. Model it on the Alia pop-up we already use.
 
 - **Layout: 50/50 split.** Left half is a full-bleed image (product or a sharp
   professional lifestyle shot). Right half is the offer and the form.
@@ -96,14 +105,22 @@ The main test page. The deal spelled out clearly, top to bottom:
 5. Proof: reviews, press logos, the guarantee.
 6. The science, briefly (glutamate / the 4pm crash).
 7. FAQ — answer "When am I charged? How do I cancel?" head-on.
-8. Final call to action with the terms restated.
+8. A quiet secondary path for buy-once shoppers ("Prefer to buy once? $54 for a 20-count
+   box."), linking to the product page.
+9. Final call to action with the terms restated.
 
-### C. The product page
-The focused page where the sample is added to cart:
-- Product shot, the offer name, price framing ($5 today, then $54/month starting day 14).
-- The 3-step timeline box and the terms + consent line right at the add-to-cart button.
-- Trust badges, guarantee, a few reviews.
-- If they arrive here before unlocking, the $5 price is gated behind the pop-up.
+### C. The product page (with a plan selector)
+The page where the customer chooses how to buy. Two columns on desktop (image left, info
+right), stacked on mobile. The core is a **plan selector** with two choices:
+- **One-time — $54.** One 20-count box, no subscription, no trial. Selecting it shows a
+  simple "Add to cart — $54." Buyable directly, no pop-up, no trial terms.
+- **The $5 Starter** (visually primary, tag it "Best way to try"). "$5 today, then
+  $54/month from day 14 unless you cancel." Gated — until unlocked it reads "Unlock for $5"
+  and the button opens the pop-up (email + phone). Once unlocked, it's selected at $5 with
+  the trial terms shown.
+- When the $5 Starter is selected, show the 3-step timeline box and the terms + consent
+  checkbox right at the button. When One-time is selected, show only the price and add-to-cart.
+- Below: trust badges, guarantee, a few reviews, a short ingredients/science strip.
 
 ### Plus: the subscription messaging (lifecycle)
 Order confirmation (screen + email), a short nurture email or two before day 11, the day-11
@@ -151,6 +168,10 @@ reminder (email + SMS), the day-14 charge + shipping confirmation, an easy cance
 > You're in. You paid **$5** for your sample, shipping today. If you don't cancel, on
 > **[date]** we'll charge **$54** and start your monthly plan. Manage anytime here.
 
+**Plan selector (product page):**
+> One-time — $54. One 20-count box, no subscription.
+> The $5 Starter — $5 today, then $54/month from day 14 unless you cancel.
+
 ---
 
 ## 7. ===== COPY-PASTE PROMPT FOR CLAUDE DESIGN =====
@@ -163,13 +184,18 @@ reminder (email + SMS), the day-14 charge + shipping confirmation, an easy cance
 > strong type, real product photography. **Design mobile-first** with big tap targets and a
 > sticky call-to-action, then show the desktop version.
 >
-> **The offer:** The $5 deal is gated. To unlock it, the customer enters their email and
+> **Two ways to buy (a plan selector on the product page):** (1) one-time $54 for a
+> 20-count box, no subscription, always directly buyable; (2) the $5 Starter, the gated
+> trial. Only the $5 Starter is gated.
+>
+> **The $5 Starter:** The $5 deal is gated. To unlock it, the customer enters their email and
 > phone number. Then they pay $5 and get a 5-count sample box. If they don't cancel, on day
 > 14 the monthly plan begins: $54/month for a 20-count box. They can cancel anytime in the
 > 14 days, keep the sample, and owe nothing.
 >
-> **Non-negotiable legal elements (design them in clearly, never bury them):** state all
-> terms in plain words before payment (the $5 today, the exact date and amount of the
+> **Non-negotiable legal elements (these apply only to the $5 Starter — the one-time $54
+> box is a plain sale and needs none of this; design them in clearly, never bury them):**
+> state all terms in plain words before payment (the $5 today, the exact date and amount of the
 > day-14 charge of $54, the recurring $54/month, how to cancel); in the pop-up, include a
 > clear email + SMS consent line with opt-out wording (reply STOP); include a consent
 > checkbox at the buy button; make canceling one click; and design a reminder sent ~3 days
@@ -187,9 +213,12 @@ reminder (email + SMS), the day-14 charge + shipping confirmation, an easy cance
 >    you cancel — this doubles as the legal disclosure); reviews + press + guarantee; a
 >    brief science section; an FAQ that answers "When am I charged?" head-on; a final CTA
 >    with terms restated.
-> 3. **Product page** — the $5 sample add-to-cart, price framing ($5 today, then $54/month
->    starting day 14), the 3-step timeline box, the terms + consent line at the button,
->    trust badges and a few reviews. The $5 price is gated behind the pop-up.
+> 3. **Product page (with a plan selector)** — two choices: One-time ($54, 20-count, no
+>    subscription, buyable directly with a simple "Add to cart — $54", no trial terms) and
+>    the $5 Starter (visually primary, "best way to try": $5 today, then $54/month from day
+>    14 unless cancelled; gated — until unlocked it reads "Unlock for $5" and opens the
+>    pop-up for email + phone). When the $5 Starter is selected, show the 3-step timeline and
+>    the terms + consent checkbox at the button. Plus trust badges and a few reviews.
 > Also design the lifecycle messages: order confirmation, a day-11 reminder (email + SMS),
 > the day-14 charge confirmation, and a one-click cancel flow.
 >
