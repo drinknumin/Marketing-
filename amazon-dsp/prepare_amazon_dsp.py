@@ -329,8 +329,9 @@ def process(rows, header_map, consent_col, args):
 
         # Stable per-record user_id (not hashed). Prefer Shopify Customer ID,
         # else derive a deterministic id from the hashed email.
-        if "user_id" in header_map and _clean(raw.get(header_map["user_id"])):
-            user_id = _clean(raw.get(header_map["user_id"]))
+        raw_user_id = _clean(raw.get(header_map["user_id"])).lstrip("'") if "user_id" in header_map else ""
+        if raw_user_id:
+            user_id = raw_user_id
         elif normalized.get("EMAIL"):
             user_id = sha256_hex(normalized["EMAIL"])[:16]
         else:
